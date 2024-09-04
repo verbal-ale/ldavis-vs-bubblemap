@@ -1,0 +1,142 @@
+[
+    {
+        "conceptId": 1,
+        "topicData": {
+            "numberOfDocuments": 714.4364483732633,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 2,
+        "topicData": {
+            "numberOfDocuments": 569.4629546958884,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 3,
+        "topicData": {
+            "numberOfDocuments": 346.80257772709405,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 4,
+        "topicData": {
+            "numberOfDocuments": 327.08301624863475,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 5,
+        "topicData": {
+            "numberOfDocuments": 3005.6787217459337,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 6,
+        "topicData": {
+            "numberOfDocuments": 1219.177854938329,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 7,
+        "topicData": {
+            "numberOfDocuments": 457.83593806106643,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 8,
+        "topicData": {
+            "numberOfDocuments": 545.5434721126909,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 9,
+        "topicData": {
+            "numberOfDocuments": 1125.4443188379894,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 10,
+        "topicData": {
+            "numberOfDocuments": 986.2004615508546,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 11,
+        "topicData": {
+            "numberOfDocuments": 4137.365863750432,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 12,
+        "topicData": {
+            "numberOfDocuments": 337.1948097440857,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 13,
+        "topicData": {
+            "numberOfDocuments": 325.5737956518259,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 14,
+        "topicData": {
+            "numberOfDocuments": 495.1363484165156,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 15,
+        "topicData": {
+            "numberOfDocuments": 717.3858966734853,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 16,
+        "topicData": {
+            "numberOfDocuments": 1895.8937744650332,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 17,
+        "topicData": {
+            "numberOfDocuments": 513.8270058322208,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 18,
+        "topicData": {
+            "numberOfDocuments": 383.0650187464052,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 19,
+        "topicData": {
+            "numberOfDocuments": 343.0329223650149,
+            "label": "Total Documents"
+        }
+    },
+    {
+        "conceptId": 20,
+        "topicData": {
+            "numberOfDocuments": 399.8588000632765,
+            "label": "Total Documents"
+        }
+    }
+]

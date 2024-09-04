@@ -1,0 +1,252 @@
+/* Main layout */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html,body{
+    height: 100%;
+    margin: 0;
+}
+  
+body{
+    display: flex;
+}
+
+div#viz{
+    display: grid;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    grid-template-columns: 100%;
+    grid-template-rows: 110px 85% 5%;
+    grid-template-areas:
+        "title"
+        "bubbleMap"
+        "controls";
+}
+
+/* Title */
+div#title{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+div#title > h1{
+    margin-top: 0px;
+    font-weight: 600;
+    color: #d65076;
+}
+
+div#title > p{
+    margin-top: 0px;
+    color: #333333;
+    max-width: 80%;
+}
+
+/* Controls */
+
+input[type=text]:focus{
+    outline-width: 0;
+}
+
+/* 
+button{
+    background: #d65076;
+    border: solid 1px #333333;
+    color: #FAFAFA;
+    cursor: pointer;
+}
+
+button:focus{
+    outline-width: 0;
+} */
+
+div#controls{
+    grid-area: controls;
+    width: 100%;
+    height: 100%;
+    border: solid 1px #ffffff00;
+    display: flex;
+    justify-content: space-between;
+}
+
+div#searchBar{
+    width: 50%;
+}
+
+div#searchBar > input[type=text]{
+    height: 100%;
+    width: 80%;
+    color: #333333;
+    border: solid 1px #333333;
+    border-right-width: 0px;
+}
+
+div#searchBar > button{
+    height: 100%;
+    width: 20%;
+}
+
+/* button#backBtn{
+    width: 10%;
+} */
+
+/* Visualisation */
+
+svg#bubbleMap{
+    grid-area: bubbleMap;
+    width: 100%;
+    height: 100%;
+    padding: auto;
+    border: solid 1px #333333;
+}
+
+div.tooltip{
+    background-color: #333333F9;
+    color: #FEFEFE;
+    opacity: 0.7;
+    padding: 10px;
+    border-radius: 3px;
+    max-width: 500px;
+    font-size: 1.2em;
+}
+
+g.click{
+ cursor: pointer;
+}
+
+g.bubble > circle{
+    fill: rgb(31, 119, 180);
+    stroke: #333333;
+    stroke-width: 1px;
+    opacity: 0.2;
+  
+}
+
+g.bubble > g.labels > text.label{
+    text-anchor: middle;
+    font-weight: bolder;
+    font-size: 5.5px;
+}
+
+g.bubble > g.fake_labels > text.fake_label{
+    text-anchor: middle;
+    font-weight: bolder;
+    font-size:
+    5.5px;
+}
+
+g.bubble.highlight > circle{
+    stroke-width: 4px;
+    stroke: #444444;
+}
+
+g.bubble.highlight > g.labels > text.label{
+    font-weight: bolder;
+    fill: #444444;
+}
+
+g.bubble.selected > circle{
+    fill: #555555;
+}
+
+/*g.bubble.selected > g.labels > text.label{
+    fill: #FAFAFA; 
+}
+*/
+
+path.border{
+    opacity: 0.6;
+    stroke: rgb(214, 39, 40);
+}
+
+text {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+}
+
+/* Responsivity
+@media only screen and (max-width: 600px){
+    h1{
+        font-size: 1.2em;
+    }
+    p{
+        font-size: 9px;
+    }
+    input[type=text], button{
+        font-size: 10px;
+        padding: 2px;
+    }
+}
+@media only screen and (min-width: 600px){
+    h1{
+        font-size: 1.2em;
+    }
+    p{
+        font-size: 11px;
+    }
+    input[type=text], button{
+        font-size: 12px;
+        padding: 2px;
+    }
+}
+@media only screen and (min-width: 768px){
+    h1{
+        font-size: 1.4em;
+    }
+    p{
+        font-size: 14px;
+    }
+    input[type=text], button{
+        font-size: 15px;
+        padding: 2px;
+    }
+}
+@media only screen and (min-width: 992px){
+    h1{
+        font-size: 1.6em;
+    }
+    p{
+        font-size: 16px;
+    }
+    input[type=text], button{
+        font-size: 18px;
+        padding: 4px;
+    }
+}
+@media only screen and (min-width: 1200px){
+    h1{
+        font-size: 1.8em;
+    }
+    input[type=text], button{
+        font-size: 20px;
+        padding: 5px;
+    }
+}
+@media only screen and (min-width: 1800px){
+    h1{
+        font-size: 2em;
+    }
+    input[type=text], button{
+        font-size: 28px;
+        padding: 8px;
+    }
+}
+@media only screen and (min-width: 2400px){
+    h1{
+        font-size: 2.5em;
+    }
+    input[type=text], button{
+        font-size: 32px;
+        padding: 10px;
+    }
+}
+ */

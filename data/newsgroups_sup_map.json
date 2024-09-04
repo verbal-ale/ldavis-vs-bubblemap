@@ -1,0 +1,4301 @@
+{
+    "conceptsData": [
+        {
+            "conceptId": 1,
+            "clusterId": 5,
+            "hexCoordinates": {
+                "x": 40.669898986816406,
+                "y": -46.778133392333984
+            },
+            "labels": [
+                {
+                    "label": "car",
+                    "weight": 27.44552994826594
+                },
+                {
+                    "label": "condition",
+                    "weight": 22.08975014362546
+                },
+                {
+                    "label": "shipping",
+                    "weight": 17.066177960320452
+                },
+                {
+                    "label": "sell",
+                    "weight": 16.821059110938602
+                },
+                {
+                    "label": "helmet",
+                    "weight": 16.77584406037488
+                },
+                {
+                    "label": "bike",
+                    "weight": 16.310507448238646
+                },
+                {
+                    "label": "sale",
+                    "weight": 16.224398332796195
+                },
+                {
+                    "label": "price",
+                    "weight": 15.25106995551323
+                },
+                {
+                    "label": "excellent",
+                    "weight": 15.11314067554393
+                },
+                {
+                    "label": "old",
+                    "weight": 13.33476888348956
+                },
+                {
+                    "label": "offer",
+                    "weight": 12.385278506492478
+                },
+                {
+                    "label": "probe",
+                    "weight": 12.194921428114238
+                },
+                {
+                    "label": "mile",
+                    "weight": 11.961136496945894
+                },
+                {
+                    "label": "solar",
+                    "weight": 11.834235847040446
+                },
+                {
+                    "label": "manual",
+                    "weight": 10.968792259463136
+                },
+                {
+                    "label": "water",
+                    "weight": 10.472937238683976
+                },
+                {
+                    "label": "model",
+                    "weight": 10.361582010210356
+                },
+                {
+                    "label": "tire",
+                    "weight": 9.878396178813528
+                },
+                {
+                    "label": "pair",
+                    "weight": 9.84539518496775
+                },
+                {
+                    "label": "ride",
+                    "weight": 9.686448860078404
+                },
+                {
+                    "label": "chain",
+                    "weight": 9.579259347827051
+                },
+                {
+                    "label": "wax",
+                    "weight": 9.48916086300349
+                },
+                {
+                    "label": "road",
+                    "weight": 9.313792766889906
+                },
+                {
+                    "label": "engine",
+                    "weight": 9.194744550326254
+                },
+                {
+                    "label": "hole",
+                    "weight": 8.996517740895703
+                },
+                {
+                    "label": "clean",
+                    "weight": 8.971278406998294
+                },
+                {
+                    "label": "shape",
+                    "weight": 8.794116042632565
+                },
+                {
+                    "label": "scope",
+                    "weight": 8.524852284057475
+                },
+                {
+                    "label": "orbit",
+                    "weight": 8.489983527936579
+                },
+                {
+                    "label": "gear",
+                    "weight": 8.449598993698851
+                },
+                {
+                    "label": "temperature",
+                    "weight": 8.268764710104534
+                },
+                {
+                    "label": "toyota",
+                    "weight": 8.142255098000962
+                },
+                {
+                    "label": "ames",
+                    "weight": 7.882416215145046
+                },
+                {
+                    "label": "oil",
+                    "weight": 7.744837216126427
+                },
+                {
+                    "label": "energy",
+                    "weight": 7.727420962756665
+                },
+                {
+                    "label": "ear",
+                    "weight": 7.491815578451785
+                },
+                {
+                    "label": "real",
+                    "weight": 7.43879520856974
+                },
+                {
+                    "label": "bought",
+                    "weight": 7.350420311303292
+                },
+                {
+                    "label": "big",
+                    "weight": 7.311817607394265
+                },
+                {
+                    "label": "dealer",
+                    "weight": 7.255684960453082
+                },
+                {
+                    "label": "small",
+                    "weight": 7.15145495123974
+                },
+                {
+                    "label": "nasa",
+                    "weight": 7.113058602292356
+                },
+                {
+                    "label": "pad",
+                    "weight": 7.109942841717776
+                },
+                {
+                    "label": "torque",
+                    "weight": 7.098765119614188
+                },
+                {
+                    "label": "month",
+                    "weight": 7.0074679059954805
+                },
+                {
+                    "label": "perfect",
+                    "weight": 6.99718091883476
+                },
+                {
+                    "label": "harddisk",
+                    "weight": 6.905650416836179
+                },
+                {
+                    "label": "less",
+                    "weight": 6.866023312633115
+                },
+                {
+                    "label": "original",
+                    "weight": 6.788259141570474
+                },
+                {
+                    "label": "fuel",
+                    "weight": 6.706933864377984
+                }
+            ]
+        },
+        {
+            "conceptId": 2,
+            "clusterId": 2,
+            "hexCoordinates": {
+                "x": -20.04201316833496,
+                "y": -82.91348266601562
+            },
+            "labels": [
+                {
+                    "label": "trial",
+                    "weight": 8.760814464033492
+                },
+                {
+                    "label": "thread",
+                    "weight": 8.394125363900795
+                },
+                {
+                    "label": "sabbath",
+                    "weight": 7.989594206110746
+                },
+                {
+                    "label": "fuhr",
+                    "weight": 7.310890142425518
+                },
+                {
+                    "label": "bush",
+                    "weight": 6.598751231165426
+                },
+                {
+                    "label": "cat",
+                    "weight": 6.451009030805535
+                },
+                {
+                    "label": "abortion",
+                    "weight": 6.219436913161948
+                },
+                {
+                    "label": "achieve",
+                    "weight": 6.040976562923278
+                },
+                {
+                    "label": "rushdie",
+                    "weight": 5.757703283990917
+                },
+                {
+                    "label": "objection",
+                    "weight": 5.747729484755449
+                },
+                {
+                    "label": "imake",
+                    "weight": 5.732077140043558
+                },
+                {
+                    "label": "tyre",
+                    "weight": 5.567576903052204
+                },
+                {
+                    "label": "bastard",
+                    "weight": 5.532246655764992
+                },
+                {
+                    "label": "arrogance",
+                    "weight": 5.430821390339863
+                },
+                {
+                    "label": "annoy",
+                    "weight": 5.066007105199033
+                },
+                {
+                    "label": "mental",
+                    "weight": 5.048418863441667
+                },
+                {
+                    "label": "secular",
+                    "weight": 5.031662195045975
+                },
+                {
+                    "label": "matter",
+                    "weight": 5.021584674836828
+                },
+                {
+                    "label": "mystery",
+                    "weight": 5.004685881726076
+                },
+                {
+                    "label": "hell",
+                    "weight": 5.0010138463062
+                },
+                {
+                    "label": "creator",
+                    "weight": 4.868850155804187
+                },
+                {
+                    "label": "agree",
+                    "weight": 4.848215414525435
+                },
+                {
+                    "label": "messiah",
+                    "weight": 4.699026429303676
+                },
+                {
+                    "label": "assertion",
+                    "weight": 4.664851307555717
+                },
+                {
+                    "label": "bishop",
+                    "weight": 4.634866798283259
+                },
+                {
+                    "label": "rule",
+                    "weight": 4.560902674232991
+                },
+                {
+                    "label": "qur",
+                    "weight": 4.495683596535359
+                },
+                {
+                    "label": "glad",
+                    "weight": 4.441754362336583
+                },
+                {
+                    "label": "mistake",
+                    "weight": 4.419239854358481
+                },
+                {
+                    "label": "dispute",
+                    "weight": 4.412848265683834
+                },
+                {
+                    "label": "rosicrucian",
+                    "weight": 4.394356814459576
+                },
+                {
+                    "label": "weaver",
+                    "weight": 4.389994553709746
+                },
+                {
+                    "label": "selfish",
+                    "weight": 4.3636006576234765
+                },
+                {
+                    "label": "disagree",
+                    "weight": 4.335018462269229
+                },
+                {
+                    "label": "oops",
+                    "weight": 4.307905231558147
+                },
+                {
+                    "label": "clarify",
+                    "weight": 4.266095632870751
+                },
+                {
+                    "label": "phill",
+                    "weight": 4.143726043900633
+                },
+                {
+                    "label": "situation",
+                    "weight": 4.142552481693502
+                },
+                {
+                    "label": "reader",
+                    "weight": 4.097180444752922
+                },
+                {
+                    "label": "accidental",
+                    "weight": 4.080806003866034
+                },
+                {
+                    "label": "zeus",
+                    "weight": 4.064334114684025
+                },
+                {
+                    "label": "university",
+                    "weight": 4.041987794550374
+                },
+                {
+                    "label": "rochester",
+                    "weight": 4.035002242526192
+                },
+                {
+                    "label": "judge",
+                    "weight": 4.008833257887834
+                },
+                {
+                    "label": "russell",
+                    "weight": 3.984363246834515
+                },
+                {
+                    "label": "makefile",
+                    "weight": 3.943616363119072
+                },
+                {
+                    "label": "expect",
+                    "weight": 3.935493792776073
+                },
+                {
+                    "label": "vat",
+                    "weight": 3.9215801756106696
+                },
+                {
+                    "label": "income",
+                    "weight": 3.910117673441647
+                },
+                {
+                    "label": "marriage",
+                    "weight": 3.897530358912444
+                }
+            ]
+        },
+        {
+            "conceptId": 3,
+            "clusterId": 5,
+            "hexCoordinates": {
+                "x": -32.042816162109375,
+                "y": 4.962116241455078
+            },
+            "labels": [
+                {
+                    "label": "dod",
+                    "weight": 12.097024303881522
+                },
+                {
+                    "label": "tek",
+                    "weight": 11.08731666379252
+                },
+                {
+                    "label": "queen",
+                    "weight": 8.687585392619741
+                },
+                {
+                    "label": "photography",
+                    "weight": 8.304032284170027
+                },
+                {
+                    "label": "ico",
+                    "weight": 7.886936964338371
+                },
+                {
+                    "label": "sea",
+                    "weight": 7.525897507665353
+                },
+                {
+                    "label": "kirlian",
+                    "weight": 7.182441428688004
+                },
+                {
+                    "label": "solder",
+                    "weight": 6.981001630607958
+                },
+                {
+                    "label": "cview",
+                    "weight": 6.512663371386291
+                },
+                {
+                    "label": "stay",
+                    "weight": 6.199192070438704
+                },
+                {
+                    "label": "student",
+                    "weight": 5.3487866335531
+                },
+                {
+                    "label": "technician",
+                    "weight": 5.151828887655542
+                },
+                {
+                    "label": "keywords",
+                    "weight": 5.012032007489525
+                },
+                {
+                    "label": "sarcasm",
+                    "weight": 4.645987204802534
+                },
+                {
+                    "label": "sig",
+                    "weight": 4.538449899747829
+                },
+                {
+                    "label": "colour",
+                    "weight": 4.350323710012421
+                },
+                {
+                    "label": "freenet",
+                    "weight": 4.028303904336338
+                },
+                {
+                    "label": "tiger",
+                    "weight": 3.997149858638637
+                },
+                {
+                    "label": "irony",
+                    "weight": 3.9601536377586575
+                },
+                {
+                    "label": "rec",
+                    "weight": 3.9587601293651313
+                },
+                {
+                    "label": "bout",
+                    "weight": 3.852094761783971
+                },
+                {
+                    "label": "cleveland",
+                    "weight": 3.809010649196643
+                },
+                {
+                    "label": "gamma",
+                    "weight": 3.791302989119264
+                },
+                {
+                    "label": "guitar",
+                    "weight": 3.6129903517638366
+                },
+                {
+                    "label": "rgb",
+                    "weight": 3.516263765327204
+                },
+                {
+                    "label": "speed",
+                    "weight": 3.5135811959797008
+                },
+                {
+                    "label": "loop",
+                    "weight": 3.4809143971112384
+                },
+                {
+                    "label": "cream",
+                    "weight": 3.3804875086243222
+                },
+                {
+                    "label": "distribution",
+                    "weight": 3.362133579821552
+                },
+                {
+                    "label": "auto",
+                    "weight": 3.302876360058957
+                },
+                {
+                    "label": "ride",
+                    "weight": 3.198798008835777
+                },
+                {
+                    "label": "silver",
+                    "weight": 3.1866399492877493
+                },
+                {
+                    "label": "away",
+                    "weight": 3.120198241096285
+                },
+                {
+                    "label": "thrown",
+                    "weight": 3.079335956900481
+                },
+                {
+                    "label": "mine",
+                    "weight": 3.0607638465559885
+                },
+                {
+                    "label": "mobile",
+                    "weight": 3.039313982566961
+                },
+                {
+                    "label": "org",
+                    "weight": 2.963574522913851
+                },
+                {
+                    "label": "mel",
+                    "weight": 2.919458561402353
+                },
+                {
+                    "label": "pillion",
+                    "weight": 2.885728475963644
+                },
+                {
+                    "label": "smoker",
+                    "weight": 2.879530250624544
+                },
+                {
+                    "label": "lonestar",
+                    "weight": 2.787544210040867
+                },
+                {
+                    "label": "richardson",
+                    "weight": 2.785128278970705
+                },
+                {
+                    "label": "bike",
+                    "weight": 2.741776980591074
+                },
+                {
+                    "label": "jennifer",
+                    "weight": 2.686828181269816
+                },
+                {
+                    "label": "columbus",
+                    "weight": 2.675245322221816
+                },
+                {
+                    "label": "expose",
+                    "weight": 2.634929134396344
+                },
+                {
+                    "label": "rig",
+                    "weight": 2.526654746211501
+                },
+                {
+                    "label": "choice",
+                    "weight": 2.512008840447297
+                },
+                {
+                    "label": "grad",
+                    "weight": 2.495894339748861
+                },
+                {
+                    "label": "watt",
+                    "weight": 2.494583401508336
+                }
+            ]
+        },
+        {
+            "conceptId": 4,
+            "clusterId": 3,
+            "hexCoordinates": {
+                "x": -14.391056060791016,
+                "y": -13.812990188598633
+            },
+            "labels": [
+                {
+                    "label": "armenian",
+                    "weight": 24.61183068578412
+                },
+                {
+                    "label": "muslim",
+                    "weight": 17.180963852383154
+                },
+                {
+                    "label": "greek",
+                    "weight": 15.260696067652953
+                },
+                {
+                    "label": "turkish",
+                    "weight": 12.94762741530016
+                },
+                {
+                    "label": "armenia",
+                    "weight": 10.55654837168213
+                },
+                {
+                    "label": "turk",
+                    "weight": 10.530021693136868
+                },
+                {
+                    "label": "azeri",
+                    "weight": 9.027638816797326
+                },
+                {
+                    "label": "turkey",
+                    "weight": 8.519061499819975
+                },
+                {
+                    "label": "bosnian",
+                    "weight": 7.830357333328935
+                },
+                {
+                    "label": "azerbaijan",
+                    "weight": 7.801501167926154
+                },
+                {
+                    "label": "spell",
+                    "weight": 7.162884320999503
+                },
+                {
+                    "label": "greece",
+                    "weight": 6.69344996640218
+                },
+                {
+                    "label": "serb",
+                    "weight": 6.626009828107596
+                },
+                {
+                    "label": "ottoman",
+                    "weight": 6.606887071677185
+                },
+                {
+                    "label": "azerbaijani",
+                    "weight": 6.449045578742352
+                },
+                {
+                    "label": "cyprus",
+                    "weight": 5.702779858089844
+                },
+                {
+                    "label": "henrik",
+                    "weight": 5.535725153214914
+                },
+                {
+                    "label": "convertible",
+                    "weight": 5.350794846010249
+                },
+                {
+                    "label": "soldier",
+                    "weight": 5.162803207066025
+                },
+                {
+                    "label": "island",
+                    "weight": 5.100404798846507
+                },
+                {
+                    "label": "slaughter",
+                    "weight": 4.952458131434665
+                },
+                {
+                    "label": "saudi",
+                    "weight": 4.9057919187251855
+                },
+                {
+                    "label": "yep",
+                    "weight": 4.695938835554201
+                },
+                {
+                    "label": "arabia",
+                    "weight": 4.563165435576432
+                },
+                {
+                    "label": "iraq",
+                    "weight": 4.559431341970804
+                },
+                {
+                    "label": "yugoslavia",
+                    "weight": 4.485493879414964
+                },
+                {
+                    "label": "karabakh",
+                    "weight": 4.353915673972689
+                },
+                {
+                    "label": "british",
+                    "weight": 4.337811679525408
+                },
+                {
+                    "label": "village",
+                    "weight": 4.21768474060723
+                },
+                {
+                    "label": "moa",
+                    "weight": 4.177641408752962
+                },
+                {
+                    "label": "lilley",
+                    "weight": 3.9751465377559367
+                },
+                {
+                    "label": "invade",
+                    "weight": 3.954277235778412
+                },
+                {
+                    "label": "bulb",
+                    "weight": 3.9052749084982015
+                },
+                {
+                    "label": "moscow",
+                    "weight": 3.896812271155427
+                },
+                {
+                    "label": "empire",
+                    "weight": 3.629876892183547
+                },
+                {
+                    "label": "kuwait",
+                    "weight": 3.587697239763081
+                },
+                {
+                    "label": "saddam",
+                    "weight": 3.557531842675726
+                },
+                {
+                    "label": "mot",
+                    "weight": 3.5356696850659906
+                },
+                {
+                    "label": "postage",
+                    "weight": 3.395564349926228
+                },
+                {
+                    "label": "calcium",
+                    "weight": 3.260252628317444
+                },
+                {
+                    "label": "invasion",
+                    "weight": 3.259595915391793
+                },
+                {
+                    "label": "zionism",
+                    "weight": 3.239188460554605
+                },
+                {
+                    "label": "chris",
+                    "weight": 3.1871046704454424
+                },
+                {
+                    "label": "manchester",
+                    "weight": 3.056847287826279
+                },
+                {
+                    "label": "baku",
+                    "weight": 2.9886947400414114
+                },
+                {
+                    "label": "east",
+                    "weight": 2.9713691166167124
+                },
+                {
+                    "label": "croatia",
+                    "weight": 2.913018816388536
+                },
+                {
+                    "label": "gnp",
+                    "weight": 2.900706749988029
+                },
+                {
+                    "label": "serbia",
+                    "weight": 2.87037864428185
+                },
+                {
+                    "label": "mcguire",
+                    "weight": 2.843799744245993
+                }
+            ]
+        },
+        {
+            "conceptId": 5,
+            "clusterId": 1,
+            "hexCoordinates": {
+                "x": -1.4164540767669678,
+                "y": 62.338809967041016
+            },
+            "labels": [
+                {
+                    "label": "card",
+                    "weight": 133.43710865839557
+                },
+                {
+                    "label": "windows",
+                    "weight": 112.1671808510521
+                },
+                {
+                    "label": "disk",
+                    "weight": 89.07502211214091
+                },
+                {
+                    "label": "mac",
+                    "weight": 84.84006138104134
+                },
+                {
+                    "label": "monitor",
+                    "weight": 83.83863028332647
+                },
+                {
+                    "label": "driver",
+                    "weight": 80.86811512798756
+                },
+                {
+                    "label": "software",
+                    "weight": 75.83802327695919
+                },
+                {
+                    "label": "computer",
+                    "weight": 73.5034384060033
+                },
+                {
+                    "label": "machine",
+                    "weight": 68.77484265231718
+                },
+                {
+                    "label": "scsi",
+                    "weight": 66.87412417615657
+                },
+                {
+                    "label": "video",
+                    "weight": 66.5598655098071
+                },
+                {
+                    "label": "bit",
+                    "weight": 63.71439595411909
+                },
+                {
+                    "label": "board",
+                    "weight": 62.02678633301962
+                },
+                {
+                    "label": "apple",
+                    "weight": 60.40374155557713
+                },
+                {
+                    "label": "modem",
+                    "weight": 59.30835194964003
+                },
+                {
+                    "label": "mhz",
+                    "weight": 59.09995990329746
+                },
+                {
+                    "label": "port",
+                    "weight": 58.78176779282146
+                },
+                {
+                    "label": "price",
+                    "weight": 58.29248791554031
+                },
+                {
+                    "label": "program",
+                    "weight": 57.47692394953457
+                },
+                {
+                    "label": "color",
+                    "weight": 54.42509177859471
+                },
+                {
+                    "label": "memory",
+                    "weight": 53.12442934757755
+                },
+                {
+                    "label": "screen",
+                    "weight": 51.93936145639824
+                },
+                {
+                    "label": "chip",
+                    "weight": 50.80915836639872
+                },
+                {
+                    "label": "meg",
+                    "weight": 50.11036041674465
+                },
+                {
+                    "label": "file",
+                    "weight": 50.03677081240363
+                },
+                {
+                    "label": "controller",
+                    "weight": 47.414365424861046
+                },
+                {
+                    "label": "data",
+                    "weight": 47.25390476016128
+                },
+                {
+                    "label": "sale",
+                    "weight": 47.1510573241106
+                },
+                {
+                    "label": "ram",
+                    "weight": 46.90758865007849
+                },
+                {
+                    "label": "version",
+                    "weight": 46.73076641302571
+                },
+                {
+                    "label": "mode",
+                    "weight": 46.26805559638072
+                },
+                {
+                    "label": "bus",
+                    "weight": 46.01707164855924
+                },
+                {
+                    "label": "sell",
+                    "weight": 44.20670211299108
+                },
+                {
+                    "label": "graphic",
+                    "weight": 44.12941810065176
+                },
+                {
+                    "label": "info",
+                    "weight": 43.41271823175997
+                },
+                {
+                    "label": "support",
+                    "weight": 43.03874000689061
+                },
+                {
+                    "label": "printer",
+                    "weight": 42.52562109888843
+                },
+                {
+                    "label": "offer",
+                    "weight": 42.37505522068465
+                },
+                {
+                    "label": "mouse",
+                    "weight": 42.21596322813355
+                },
+                {
+                    "label": "speed",
+                    "weight": 41.8279626793473
+                },
+                {
+                    "label": "floppy",
+                    "weight": 41.4227365457915
+                },
+                {
+                    "label": "pin",
+                    "weight": 40.52432792952478
+                },
+                {
+                    "label": "display",
+                    "weight": 40.194007830306
+                },
+                {
+                    "label": "cable",
+                    "weight": 39.63592915157107
+                },
+                {
+                    "label": "hardware",
+                    "weight": 38.942988212279495
+                },
+                {
+                    "label": "advance",
+                    "weight": 37.79265386454109
+                },
+                {
+                    "label": "ide",
+                    "weight": 37.669122911364255
+                },
+                {
+                    "label": "power",
+                    "weight": 37.21173152553117
+                },
+                {
+                    "label": "upgrade",
+                    "weight": 36.969962781345046
+                },
+                {
+                    "label": "ibm",
+                    "weight": 36.95299013812019
+                }
+            ]
+        },
+        {
+            "conceptId": 6,
+            "clusterId": 4,
+            "hexCoordinates": {
+                "x": -87.61933135986328,
+                "y": -0.5950403809547424
+            },
+            "labels": [
+                {
+                    "label": "game",
+                    "weight": 132.25732515616198
+                },
+                {
+                    "label": "team",
+                    "weight": 76.81036244602183
+                },
+                {
+                    "label": "player",
+                    "weight": 46.61033059119049
+                },
+                {
+                    "label": "hockey",
+                    "weight": 45.25003650898185
+                },
+                {
+                    "label": "play",
+                    "weight": 43.17204883244534
+                },
+                {
+                    "label": "fan",
+                    "weight": 40.85613046888688
+                },
+                {
+                    "label": "win",
+                    "weight": 34.74137941127729
+                },
+                {
+                    "label": "season",
+                    "weight": 32.62331180579016
+                },
+                {
+                    "label": "playoff",
+                    "weight": 30.467860547775636
+                },
+                {
+                    "label": "baseball",
+                    "weight": 28.998341229718964
+                },
+                {
+                    "label": "score",
+                    "weight": 28.558464789156268
+                },
+                {
+                    "label": "watch",
+                    "weight": 26.95442320003337
+                },
+                {
+                    "label": "espn",
+                    "weight": 26.165139311666223
+                },
+                {
+                    "label": "league",
+                    "weight": 25.52123112019905
+                },
+                {
+                    "label": "night",
+                    "weight": 24.655184823417468
+                },
+                {
+                    "label": "nhl",
+                    "weight": 24.52421913890567
+                },
+                {
+                    "label": "car",
+                    "weight": 22.689069931702157
+                },
+                {
+                    "label": "pen",
+                    "weight": 21.60781412815884
+                },
+                {
+                    "label": "ranger",
+                    "weight": 21.517271371098133
+                },
+                {
+                    "label": "leaf",
+                    "weight": 21.456549083932543
+                },
+                {
+                    "label": "sport",
+                    "weight": 20.73224730078637
+                },
+                {
+                    "label": "trade",
+                    "weight": 18.696694422047702
+                },
+                {
+                    "label": "boston",
+                    "weight": 18.2153552181368
+                },
+                {
+                    "label": "series",
+                    "weight": 18.137193592927787
+                },
+                {
+                    "label": "played",
+                    "weight": 18.04815975291582
+                },
+                {
+                    "label": "next",
+                    "weight": 17.633849408343824
+                },
+                {
+                    "label": "goal",
+                    "weight": 17.474795777166648
+                },
+                {
+                    "label": "cup",
+                    "weight": 17.44973682385089
+                },
+                {
+                    "label": "pick",
+                    "weight": 17.28987023177717
+                },
+                {
+                    "label": "lose",
+                    "weight": 17.201984604133276
+                },
+                {
+                    "label": "chicago",
+                    "weight": 17.106865779745565
+                },
+                {
+                    "label": "coach",
+                    "weight": 16.907025816876057
+                },
+                {
+                    "label": "guy",
+                    "weight": 16.352299125445878
+                },
+                {
+                    "label": "toronto",
+                    "weight": 16.322657762777585
+                },
+                {
+                    "label": "wing",
+                    "weight": 15.436667843221525
+                },
+                {
+                    "label": "sabre",
+                    "weight": 15.285218852491091
+                },
+                {
+                    "label": "city",
+                    "weight": 14.966686848371886
+                },
+                {
+                    "label": "devil",
+                    "weight": 14.845929722371324
+                },
+                {
+                    "label": "detroit",
+                    "weight": 14.811819785567703
+                },
+                {
+                    "label": "ice",
+                    "weight": 14.770356338120154
+                },
+                {
+                    "label": "cap",
+                    "weight": 14.71294070352838
+                },
+                {
+                    "label": "blue",
+                    "weight": 14.649596286957246
+                },
+                {
+                    "label": "week",
+                    "weight": 14.628295375001866
+                },
+                {
+                    "label": "three",
+                    "weight": 14.610632747977466
+                },
+                {
+                    "label": "buffalo",
+                    "weight": 14.397623384209416
+                },
+                {
+                    "label": "hit",
+                    "weight": 14.342969481246996
+                },
+                {
+                    "label": "mike",
+                    "weight": 14.185388676939684
+                },
+                {
+                    "label": "second",
+                    "weight": 13.652968775089615
+                },
+                {
+                    "label": "pittsburgh",
+                    "weight": 13.577753589057176
+                },
+                {
+                    "label": "home",
+                    "weight": 13.500870181421655
+                }
+            ]
+        },
+        {
+            "conceptId": 7,
+            "clusterId": 4,
+            "hexCoordinates": {
+                "x": -92.17117309570312,
+                "y": 13.424103736877441
+            },
+            "labels": [
+                {
+                    "label": "irq",
+                    "weight": 18.58676760982462
+                },
+                {
+                    "label": "hawk",
+                    "weight": 10.214100329310138
+                },
+                {
+                    "label": "quebec",
+                    "weight": 9.850720779917877
+                },
+                {
+                    "label": "win",
+                    "weight": 9.363122272690632
+                },
+                {
+                    "label": "period",
+                    "weight": 9.040892017597004
+                },
+                {
+                    "label": "pit",
+                    "weight": 8.475896559348545
+                },
+                {
+                    "label": "min",
+                    "weight": 8.384592787038411
+                },
+                {
+                    "label": "blue",
+                    "weight": 8.214509693383489
+                },
+                {
+                    "label": "bos",
+                    "weight": 8.205512469736224
+                },
+                {
+                    "label": "det",
+                    "weight": 8.05404176771292
+                },
+                {
+                    "label": "printer",
+                    "weight": 7.993320554355398
+                },
+                {
+                    "label": "ink",
+                    "weight": 7.711849982037821
+                },
+                {
+                    "label": "tor",
+                    "weight": 6.988529204663963
+                },
+                {
+                    "label": "cal",
+                    "weight": 6.949529570354738
+                },
+                {
+                    "label": "goal",
+                    "weight": 6.905647998726884
+                },
+                {
+                    "label": "chi",
+                    "weight": 6.706576436220498
+                },
+                {
+                    "label": "gilmour",
+                    "weight": 6.625226956633901
+                },
+                {
+                    "label": "que",
+                    "weight": 6.491553755379748
+                },
+                {
+                    "label": "deskjet",
+                    "weight": 6.457950437655466
+                },
+                {
+                    "label": "winnipeg",
+                    "weight": 6.3058454682433664
+                },
+                {
+                    "label": "game",
+                    "weight": 6.301862306233068
+                },
+                {
+                    "label": "calgary",
+                    "weight": 6.097673941473892
+                },
+                {
+                    "label": "nyi",
+                    "weight": 5.925738638504385
+                },
+                {
+                    "label": "jay",
+                    "weight": 5.901656572467159
+                },
+                {
+                    "label": "van",
+                    "weight": 5.81873413973471
+                },
+                {
+                    "label": "buf",
+                    "weight": 5.6973538222866935
+                },
+                {
+                    "label": "overtime",
+                    "weight": 5.682075652557632
+                },
+                {
+                    "label": "alomar",
+                    "weight": 5.658299579330823
+                },
+                {
+                    "label": "mark",
+                    "weight": 5.647933429440401
+                },
+                {
+                    "label": "scorer",
+                    "weight": 5.631108415749977
+                },
+                {
+                    "label": "team",
+                    "weight": 5.571445442749684
+                },
+                {
+                    "label": "obp",
+                    "weight": 5.546885036630945
+                },
+                {
+                    "label": "clemens",
+                    "weight": 5.470185776210109
+                },
+                {
+                    "label": "paul",
+                    "weight": 5.401336134669144
+                },
+                {
+                    "label": "lindros",
+                    "weight": 5.344141133325863
+                },
+                {
+                    "label": "jet",
+                    "weight": 5.343655080217519
+                },
+                {
+                    "label": "uart",
+                    "weight": 5.3238728185054125
+                },
+                {
+                    "label": "vancouver",
+                    "weight": 5.296264104861049
+                },
+                {
+                    "label": "shrink",
+                    "weight": 5.295620454293148
+                },
+                {
+                    "label": "packard",
+                    "weight": 5.244953088003403
+                },
+                {
+                    "label": "baerga",
+                    "weight": 5.204347482019012
+                },
+                {
+                    "label": "vote",
+                    "weight": 5.166663821754996
+                },
+                {
+                    "label": "hewlett",
+                    "weight": 5.1629261804525735
+                },
+                {
+                    "label": "laser",
+                    "weight": 5.1445972738439165
+                },
+                {
+                    "label": "king",
+                    "weight": 5.13882837333626
+                },
+                {
+                    "label": "player",
+                    "weight": 5.088527465726263
+                },
+                {
+                    "label": "blaster",
+                    "weight": 5.043201783129619
+                },
+                {
+                    "label": "habs",
+                    "weight": 4.996560272617386
+                },
+                {
+                    "label": "stl",
+                    "weight": 4.964222478782906
+                },
+                {
+                    "label": "shot",
+                    "weight": 4.9579275055852685
+                }
+            ]
+        },
+        {
+            "conceptId": 8,
+            "clusterId": 1,
+            "hexCoordinates": {
+                "x": 9.910399436950684,
+                "y": 85.64945220947266
+            },
+            "labels": [
+                {
+                    "label": "window",
+                    "weight": 47.36873515376759
+                },
+                {
+                    "label": "font",
+                    "weight": 29.86241097673503
+                },
+                {
+                    "label": "widget",
+                    "weight": 27.04859176617383
+                },
+                {
+                    "label": "xterm",
+                    "weight": 20.03522629242031
+                },
+                {
+                    "label": "application",
+                    "weight": 18.27911089531839
+                },
+                {
+                    "label": "program",
+                    "weight": 16.43852612628847
+                },
+                {
+                    "label": "draw",
+                    "weight": 16.381236888399744
+                },
+                {
+                    "label": "server",
+                    "weight": 14.934021850595412
+                },
+                {
+                    "label": "motif",
+                    "weight": 14.910950490301593
+                },
+                {
+                    "label": "event",
+                    "weight": 13.315418864522488
+                },
+                {
+                    "label": "manager",
+                    "weight": 12.49877210676143
+                },
+                {
+                    "label": "icon",
+                    "weight": 11.723174680771534
+                },
+                {
+                    "label": "color",
+                    "weight": 10.989534351530244
+                },
+                {
+                    "label": "simm",
+                    "weight": 10.30474159214998
+                },
+                {
+                    "label": "xlib",
+                    "weight": 10.248678870947463
+                },
+                {
+                    "label": "character",
+                    "weight": 10.162338431119856
+                },
+                {
+                    "label": "button",
+                    "weight": 10.060276463876493
+                },
+                {
+                    "label": "value",
+                    "weight": 9.734266034747636
+                },
+                {
+                    "label": "object",
+                    "weight": 9.33729711618225
+                },
+                {
+                    "label": "display",
+                    "weight": 9.314001206073574
+                },
+                {
+                    "label": "windows",
+                    "weight": 9.22964688338723
+                },
+                {
+                    "label": "resource",
+                    "weight": 8.789007838586143
+                },
+                {
+                    "label": "cursor",
+                    "weight": 8.68460092000882
+                },
+                {
+                    "label": "function",
+                    "weight": 8.644226885553055
+                },
+                {
+                    "label": "mask",
+                    "weight": 8.381990238218082
+                },
+                {
+                    "label": "text",
+                    "weight": 8.29424006305083
+                },
+                {
+                    "label": "width",
+                    "weight": 8.09517833193592
+                },
+                {
+                    "label": "bitmap",
+                    "weight": 7.931530798018915
+                },
+                {
+                    "label": "code",
+                    "weight": 7.725978902444426
+                },
+                {
+                    "label": "plane",
+                    "weight": 7.5640313187681345
+                },
+                {
+                    "label": "create",
+                    "weight": 7.500726293163296
+                },
+                {
+                    "label": "-",
+                    "weight": 7.103917596184145
+                },
+                {
+                    "label": "location",
+                    "weight": 7.065660412663858
+                },
+                {
+                    "label": "polygon",
+                    "weight": 6.789202590010341
+                },
+                {
+                    "label": "pixel",
+                    "weight": 6.774522226188778
+                },
+                {
+                    "label": "ncd",
+                    "weight": 6.766321977550223
+                },
+                {
+                    "label": "app",
+                    "weight": 6.714920077654198
+                },
+                {
+                    "label": "truetype",
+                    "weight": 6.2961053148544615
+                },
+                {
+                    "label": "terminal",
+                    "weight": 6.292868286560663
+                },
+                {
+                    "label": "callback",
+                    "weight": 6.28910920672636
+                },
+                {
+                    "label": "client",
+                    "weight": 6.230009906820909
+                },
+                {
+                    "label": "advance",
+                    "weight": 6.193137022351661
+                },
+                {
+                    "label": "schematic",
+                    "weight": 6.137186163275781
+                },
+                {
+                    "label": "default",
+                    "weight": 5.998380012009431
+                },
+                {
+                    "label": "pixmap",
+                    "weight": 5.928160029434201
+                },
+                {
+                    "label": "size",
+                    "weight": 5.893454417150137
+                },
+                {
+                    "label": "corel",
+                    "weight": 5.867849495729537
+                },
+                {
+                    "label": "xview",
+                    "weight": 5.829095594569552
+                },
+                {
+                    "label": "user",
+                    "weight": 5.591743665240034
+                },
+                {
+                    "label": "specify",
+                    "weight": 5.588225657331195
+                }
+            ]
+        },
+        {
+            "conceptId": 9,
+            "clusterId": 1,
+            "hexCoordinates": {
+                "x": -6.864534378051758,
+                "y": 95.61590576171875
+            },
+            "labels": [
+                {
+                    "label": "file",
+                    "weight": 104.66577026920808
+                },
+                {
+                    "label": "ftp",
+                    "weight": 53.6551734680497
+                },
+                {
+                    "label": "program",
+                    "weight": 52.55650064358469
+                },
+                {
+                    "label": "image",
+                    "weight": 44.965919330719146
+                },
+                {
+                    "label": "format",
+                    "weight": 40.527864377381626
+                },
+                {
+                    "label": "graphic",
+                    "weight": 36.1884534417064
+                },
+                {
+                    "label": "windows",
+                    "weight": 35.57080576085345
+                },
+                {
+                    "label": "site",
+                    "weight": 35.115863399476105
+                },
+                {
+                    "label": "version",
+                    "weight": 34.60551882540034
+                },
+                {
+                    "label": "source",
+                    "weight": 32.44164667174844
+                },
+                {
+                    "label": "available",
+                    "weight": 29.67437385341425
+                },
+                {
+                    "label": "gif",
+                    "weight": 29.648522264992017
+                },
+                {
+                    "label": "advance",
+                    "weight": 28.386685822901025
+                },
+                {
+                    "label": "information",
+                    "weight": 26.11125772739762
+                },
+                {
+                    "label": "code",
+                    "weight": 25.735287661465364
+                },
+                {
+                    "label": "server",
+                    "weight": 24.937656253656225
+                },
+                {
+                    "label": "directory",
+                    "weight": 23.586416854862303
+                },
+                {
+                    "label": "library",
+                    "weight": 22.92124301800222
+                },
+                {
+                    "label": "convert",
+                    "weight": 22.49486389904866
+                },
+                {
+                    "label": "pub",
+                    "weight": 22.22220882495272
+                },
+                {
+                    "label": "info",
+                    "weight": 21.206001750083267
+                },
+                {
+                    "label": "mit",
+                    "weight": 20.848364206051848
+                },
+                {
+                    "label": "anybody",
+                    "weight": 20.0143888174974
+                },
+                {
+                    "label": "comp",
+                    "weight": 19.76188182655656
+                },
+                {
+                    "label": "copy",
+                    "weight": 19.50928744417465
+                },
+                {
+                    "label": "unix",
+                    "weight": 19.40288980720619
+                },
+                {
+                    "label": "software",
+                    "weight": 19.02521371559749
+                },
+                {
+                    "label": "internet",
+                    "weight": 18.11784205287152
+                },
+                {
+                    "label": "zip",
+                    "weight": 17.563241263343894
+                },
+                {
+                    "label": "motif",
+                    "weight": 17.370016291174526
+                },
+                {
+                    "label": "package",
+                    "weight": 17.274645573189634
+                },
+                {
+                    "label": "request",
+                    "weight": 17.26860159703253
+                },
+                {
+                    "label": "via",
+                    "weight": 17.075321398879954
+                },
+                {
+                    "label": "news",
+                    "weight": 16.24119965385555
+                },
+                {
+                    "label": "book",
+                    "weight": 16.195872489497777
+                },
+                {
+                    "label": "subject",
+                    "weight": 15.864507706483884
+                },
+                {
+                    "label": "nasa",
+                    "weight": 15.848577694098845
+                },
+                {
+                    "label": "archive",
+                    "weight": 15.359866260210064
+                },
+                {
+                    "label": "shareware",
+                    "weight": 15.161566387326102
+                },
+                {
+                    "label": "net",
+                    "weight": 15.129654697019197
+                },
+                {
+                    "label": "font",
+                    "weight": 14.994862720841107
+                },
+                {
+                    "label": "tiff",
+                    "weight": 14.618050130195876
+                },
+                {
+                    "label": "interested",
+                    "weight": 14.246354535567162
+                },
+                {
+                    "label": "user",
+                    "weight": 14.208277674185515
+                },
+                {
+                    "label": "compile",
+                    "weight": 14.1258744221594
+                },
+                {
+                    "label": "space",
+                    "weight": 13.933763849012989
+                },
+                {
+                    "label": "anonymous",
+                    "weight": 13.4726000226994
+                },
+                {
+                    "label": "display",
+                    "weight": 13.463703104743304
+                },
+                {
+                    "label": "computer",
+                    "weight": 13.19825683063462
+                },
+                {
+                    "label": "create",
+                    "weight": 13.15162008719653
+                }
+            ]
+        },
+        {
+            "conceptId": 10,
+            "clusterId": 3,
+            "hexCoordinates": {
+                "x": -30.526294708251953,
+                "y": -41.61886978149414
+            },
+            "labels": [
+                {
+                    "label": "key",
+                    "weight": 83.54047380642066
+                },
+                {
+                    "label": "chip",
+                    "weight": 48.86272317250158
+                },
+                {
+                    "label": "clipper",
+                    "weight": 45.67398526620269
+                },
+                {
+                    "label": "encryption",
+                    "weight": 42.560057810402405
+                },
+                {
+                    "label": "phone",
+                    "weight": 33.89837684324073
+                },
+                {
+                    "label": "government",
+                    "weight": 33.410852192543786
+                },
+                {
+                    "label": "nsa",
+                    "weight": 27.95724660588278
+                },
+                {
+                    "label": "algorithm",
+                    "weight": 24.91044553550817
+                },
+                {
+                    "label": "encrypt",
+                    "weight": 23.140043606957672
+                },
+                {
+                    "label": "launch",
+                    "weight": 23.08291341948597
+                },
+                {
+                    "label": "space",
+                    "weight": 22.11163290788894
+                },
+                {
+                    "label": "security",
+                    "weight": 21.996348064080728
+                },
+                {
+                    "label": "escrow",
+                    "weight": 21.951197882208465
+                },
+                {
+                    "label": "law",
+                    "weight": 19.49774704728744
+                },
+                {
+                    "label": "crypto",
+                    "weight": 19.39020121688652
+                },
+                {
+                    "label": "secure",
+                    "weight": 18.87004161913725
+                },
+                {
+                    "label": "shuttle",
+                    "weight": 18.85875717710868
+                },
+                {
+                    "label": "secret",
+                    "weight": 18.180982146984277
+                },
+                {
+                    "label": "technology",
+                    "weight": 17.99128636326571
+                },
+                {
+                    "label": "bit",
+                    "weight": 17.83877705802249
+                },
+                {
+                    "label": "public",
+                    "weight": 17.691160573079053
+                },
+                {
+                    "label": "agency",
+                    "weight": 17.496500404837164
+                },
+                {
+                    "label": "data",
+                    "weight": 17.051638476356104
+                },
+                {
+                    "label": "cost",
+                    "weight": 16.937124191253734
+                },
+                {
+                    "label": "orbit",
+                    "weight": 15.71690584006446
+                },
+                {
+                    "label": "privacy",
+                    "weight": 15.67124113760219
+                },
+                {
+                    "label": "wiretap",
+                    "weight": 15.28439076267136
+                },
+                {
+                    "label": "warrant",
+                    "weight": 14.852044369351075
+                },
+                {
+                    "label": "pgp",
+                    "weight": 14.204943331301086
+                },
+                {
+                    "label": "scheme",
+                    "weight": 14.167616186477924
+                },
+                {
+                    "label": "communication",
+                    "weight": 14.094047089695248
+                },
+                {
+                    "label": "trust",
+                    "weight": 13.957039553011844
+                },
+                {
+                    "label": "company",
+                    "weight": 13.667596593694348
+                },
+                {
+                    "label": "court",
+                    "weight": 13.48161527282783
+                },
+                {
+                    "label": "satellite",
+                    "weight": 13.350007654752456
+                },
+                {
+                    "label": "proposal",
+                    "weight": 12.908673971699328
+                },
+                {
+                    "label": "enforcement",
+                    "weight": 12.576610788074388
+                },
+                {
+                    "label": "design",
+                    "weight": 12.507982735701647
+                },
+                {
+                    "label": "rsa",
+                    "weight": 12.140580892082978
+                },
+                {
+                    "label": "information",
+                    "weight": 12.00246747610774
+                },
+                {
+                    "label": "private",
+                    "weight": 11.836354800208692
+                },
+                {
+                    "label": "tap",
+                    "weight": 11.445121240307763
+                },
+                {
+                    "label": "hst",
+                    "weight": 11.256840072820832
+                },
+                {
+                    "label": "mission",
+                    "weight": 11.228442673514248
+                },
+                {
+                    "label": "legal",
+                    "weight": 10.593614877200784
+                },
+                {
+                    "label": "already",
+                    "weight": 10.551129474525498
+                },
+                {
+                    "label": "user",
+                    "weight": 10.530911626774202
+                },
+                {
+                    "label": "order",
+                    "weight": 10.438702354696831
+                },
+                {
+                    "label": "conversation",
+                    "weight": 10.31451518778257
+                },
+                {
+                    "label": "illegal",
+                    "weight": 10.241146853548251
+                }
+            ]
+        },
+        {
+            "conceptId": 11,
+            "clusterId": 3,
+            "hexCoordinates": {
+                "x": -5.156843185424805,
+                "y": -27.393930435180664
+            },
+            "labels": [
+                {
+                    "label": "gun",
+                    "weight": 86.31943002132294
+                },
+                {
+                    "label": "state",
+                    "weight": 75.85422241400353
+                },
+                {
+                    "label": "government",
+                    "weight": 72.89003605583983
+                },
+                {
+                    "label": "fire",
+                    "weight": 57.75373663208115
+                },
+                {
+                    "label": "kill",
+                    "weight": 52.37368929502857
+                },
+                {
+                    "label": "law",
+                    "weight": 50.30756184464046
+                },
+                {
+                    "label": "child",
+                    "weight": 47.75729805019144
+                },
+                {
+                    "label": "fbi",
+                    "weight": 44.30738614647952
+                },
+                {
+                    "label": "weapon",
+                    "weight": 41.88083183616848
+                },
+                {
+                    "label": "arm",
+                    "weight": 40.00864753069245
+                },
+                {
+                    "label": "force",
+                    "weight": 39.8007526733374
+                },
+                {
+                    "label": "hand",
+                    "weight": 39.69874082025215
+                },
+                {
+                    "label": "world",
+                    "weight": 39.31664041617826
+                },
+                {
+                    "label": "war",
+                    "weight": 38.714477738637726
+                },
+                {
+                    "label": "american",
+                    "weight": 38.50899200832309
+                },
+                {
+                    "label": "control",
+                    "weight": 38.48884641187936
+                },
+                {
+                    "label": "country",
+                    "weight": 37.62770525777965
+                },
+                {
+                    "label": "guy",
+                    "weight": 37.313718194654165
+                },
+                {
+                    "label": "every",
+                    "weight": 37.27566493919949
+                },
+                {
+                    "label": "stop",
+                    "weight": 37.00985962705587
+                },
+                {
+                    "label": "report",
+                    "weight": 36.21804210551354
+                },
+                {
+                    "label": "maybe",
+                    "weight": 36.005310099071735
+                },
+                {
+                    "label": "area",
+                    "weight": 35.879168757727555
+                },
+                {
+                    "label": "through",
+                    "weight": 35.54426513581265
+                },
+                {
+                    "label": "big",
+                    "weight": 35.2889249319451
+                },
+                {
+                    "label": "book",
+                    "weight": 35.04082238920496
+                },
+                {
+                    "label": "money",
+                    "weight": 34.07615713636293
+                },
+                {
+                    "label": "ever",
+                    "weight": 33.88810028399173
+                },
+                {
+                    "label": "car",
+                    "weight": 33.75303326893645
+                },
+                {
+                    "label": "side",
+                    "weight": 33.665894091862484
+                },
+                {
+                    "label": "space",
+                    "weight": 33.47401516602859
+                },
+                {
+                    "label": "gas",
+                    "weight": 33.25932053721462
+                },
+                {
+                    "label": "claim",
+                    "weight": 33.17055244455378
+                },
+                {
+                    "label": "school",
+                    "weight": 32.86237445071677
+                },
+                {
+                    "label": "between",
+                    "weight": 32.72253340435857
+                },
+                {
+                    "label": "thought",
+                    "weight": 32.617103321378714
+                },
+                {
+                    "label": "koresh",
+                    "weight": 32.52762713897726
+                },
+                {
+                    "label": "crime",
+                    "weight": 32.416519477199024
+                },
+                {
+                    "label": "bill",
+                    "weight": 32.409050816734734
+                },
+                {
+                    "label": "end",
+                    "weight": 31.9183256575146
+                },
+                {
+                    "label": "police",
+                    "weight": 31.688127911124607
+                },
+                {
+                    "label": "left",
+                    "weight": 31.60054690960417
+                },
+                {
+                    "label": "power",
+                    "weight": 31.466437445708333
+                },
+                {
+                    "label": "though",
+                    "weight": 31.44863380598656
+                },
+                {
+                    "label": "away",
+                    "weight": 31.41124840303222
+                },
+                {
+                    "label": "news",
+                    "weight": 30.994560379314592
+                },
+                {
+                    "label": "large",
+                    "weight": 30.86553976343466
+                },
+                {
+                    "label": "batf",
+                    "weight": 30.66169919796039
+                },
+                {
+                    "label": "during",
+                    "weight": 30.63601519989455
+                },
+                {
+                    "label": "armenian",
+                    "weight": 30.38915561850988
+                }
+            ]
+        },
+        {
+            "conceptId": 12,
+            "clusterId": 5,
+            "hexCoordinates": {
+                "x": -14.993668556213379,
+                "y": 28.622953414916992
+            },
+            "labels": [
+                {
+                    "label": "lens",
+                    "weight": 7.920072560063298
+                },
+                {
+                    "label": "seagate",
+                    "weight": 7.462724376804761
+                },
+                {
+                    "label": "slave",
+                    "weight": 7.081296817426141
+                },
+                {
+                    "label": "roger",
+                    "weight": 6.857557419033971
+                },
+                {
+                    "label": "okay",
+                    "weight": 6.39115070899777
+                },
+                {
+                    "label": "cobb",
+                    "weight": 5.906920589238553
+                },
+                {
+                    "label": "mpeg",
+                    "weight": 5.755441142582515
+                },
+                {
+                    "label": "captain",
+                    "weight": 5.52387372313595
+                },
+                {
+                    "label": "bill",
+                    "weight": 5.483786137190918
+                },
+                {
+                    "label": "syquest",
+                    "weight": 5.447810608129931
+                },
+                {
+                    "label": "conner",
+                    "weight": 5.228666014513981
+                },
+                {
+                    "label": "diesel",
+                    "weight": 5.08745949164306
+                },
+                {
+                    "label": "agree",
+                    "weight": 4.410059011246244
+                },
+                {
+                    "label": "prism",
+                    "weight": 4.362332740756188
+                },
+                {
+                    "label": "trade",
+                    "weight": 4.165109262655968
+                },
+                {
+                    "label": "paradox",
+                    "weight": 4.152994545961551
+                },
+                {
+                    "label": "nah",
+                    "weight": 4.043813635093731
+                },
+                {
+                    "label": "illinois",
+                    "weight": 3.957939474212938
+                },
+                {
+                    "label": "finnish",
+                    "weight": 3.806919718439489
+                },
+                {
+                    "label": "keenan",
+                    "weight": 3.7907044343487737
+                },
+                {
+                    "label": "sector",
+                    "weight": 3.7478699316471658
+                },
+                {
+                    "label": "mtu",
+                    "weight": 3.634378367595565
+                },
+                {
+                    "label": "supra",
+                    "weight": 3.544935926551812
+                },
+                {
+                    "label": "bake",
+                    "weight": 3.500045451632521
+                },
+                {
+                    "label": "panasonic",
+                    "weight": 3.484247576317642
+                },
+                {
+                    "label": "ireland",
+                    "weight": 3.374960007031138
+                },
+                {
+                    "label": "messier",
+                    "weight": 3.3521462714344703
+                },
+                {
+                    "label": "hdd",
+                    "weight": 3.261450155488009
+                },
+                {
+                    "label": "sub",
+                    "weight": 3.2256442977606614
+                },
+                {
+                    "label": "unused",
+                    "weight": 3.206274568274241
+                },
+                {
+                    "label": "fake",
+                    "weight": 3.175569015662516
+                },
+                {
+                    "label": "camera",
+                    "weight": 3.1307151981746717
+                },
+                {
+                    "label": "henry",
+                    "weight": 3.130201675167512
+                },
+                {
+                    "label": "defect",
+                    "weight": 3.0275432571667578
+                },
+                {
+                    "label": "timmons",
+                    "weight": 3.000182104225181
+                },
+                {
+                    "label": "ryan",
+                    "weight": 2.988886084324519
+                },
+                {
+                    "label": "uiuc",
+                    "weight": 2.967994030563266
+                },
+                {
+                    "label": "usl",
+                    "weight": 2.964044903638322
+                },
+                {
+                    "label": "cyl",
+                    "weight": 2.933318048920674
+                },
+                {
+                    "label": "continental",
+                    "weight": 2.9170142916358377
+                },
+                {
+                    "label": "michael",
+                    "weight": 2.9021339846745176
+                },
+                {
+                    "label": "scott",
+                    "weight": 2.8644355446978045
+                },
+                {
+                    "label": "vatican",
+                    "weight": 2.860291033133773
+                },
+                {
+                    "label": "university",
+                    "weight": 2.8522402393235184
+                },
+                {
+                    "label": "hughes",
+                    "weight": 2.7699797307503977
+                },
+                {
+                    "label": "goddess",
+                    "weight": 2.760772605134341
+                },
+                {
+                    "label": "lemon",
+                    "weight": 2.710547668986921
+                },
+                {
+                    "label": "astronomy",
+                    "weight": 2.681670215837276
+                },
+                {
+                    "label": "omega",
+                    "weight": 2.6747228935765635
+                },
+                {
+                    "label": "snail",
+                    "weight": 2.6740454466604096
+                }
+            ]
+        },
+        {
+            "conceptId": 13,
+            "clusterId": 5,
+            "hexCoordinates": {
+                "x": 1.678911566734314,
+                "y": 1.7033981084823608
+            },
+            "labels": [
+                {
+                    "label": "gant",
+                    "weight": 8.194755956339582
+                },
+                {
+                    "label": "clutch",
+                    "weight": 6.5067955026559
+                },
+                {
+                    "label": "bhj",
+                    "weight": 6.402001065301247
+                },
+                {
+                    "label": "sho",
+                    "weight": 5.846092017116593
+                },
+                {
+                    "label": "giz",
+                    "weight": 5.608312455017519
+                },
+                {
+                    "label": "rush",
+                    "weight": 5.426488685165903
+                },
+                {
+                    "label": "film",
+                    "weight": 5.200450356293229
+                },
+                {
+                    "label": "cheat",
+                    "weight": 4.470439897050756
+                },
+                {
+                    "label": "opel",
+                    "weight": 4.186285291583071
+                },
+                {
+                    "label": "umpire",
+                    "weight": 4.106387705653307
+                },
+                {
+                    "label": "hirschbeck",
+                    "weight": 4.059202396206726
+                },
+                {
+                    "label": "lopez",
+                    "weight": 3.776199817943118
+                },
+                {
+                    "label": "eagle",
+                    "weight": 3.5249338202122127
+                },
+                {
+                    "label": "horn",
+                    "weight": 3.5180302629812368
+                },
+                {
+                    "label": "moment",
+                    "weight": 3.331838151879521
+                },
+                {
+                    "label": "uiuc",
+                    "weight": 3.330404538470102
+                },
+                {
+                    "label": "mod",
+                    "weight": 3.3123625536720955
+                },
+                {
+                    "label": "horsepower",
+                    "weight": 3.200349795073876
+                },
+                {
+                    "label": "reverse",
+                    "weight": 3.1632291398202708
+                },
+                {
+                    "label": "headache",
+                    "weight": 3.077457372317145
+                },
+                {
+                    "label": "qax",
+                    "weight": 3.064895188072128
+                },
+                {
+                    "label": "cox",
+                    "weight": 3.0473572226380585
+                },
+                {
+                    "label": "grand",
+                    "weight": 3.041587838790712
+                },
+                {
+                    "label": "backing",
+                    "weight": 3.0229185195276336
+                },
+                {
+                    "label": "realistic",
+                    "weight": 3.01598940185567
+                },
+                {
+                    "label": "dream",
+                    "weight": 2.99869515613329
+                },
+                {
+                    "label": "buick",
+                    "weight": 2.94490673616019
+                },
+                {
+                    "label": "regularly",
+                    "weight": 2.868377877141954
+                },
+                {
+                    "label": "hillary",
+                    "weight": 2.7820111797831117
+                },
+                {
+                    "label": "air",
+                    "weight": 2.748137379523618
+                },
+                {
+                    "label": "sic",
+                    "weight": 2.746247740699962
+                },
+                {
+                    "label": "bxn",
+                    "weight": 2.697173235943234
+                },
+                {
+                    "label": "talon",
+                    "weight": 2.6743446856080624
+                },
+                {
+                    "label": "beef",
+                    "weight": 2.64198523513532
+                },
+                {
+                    "label": "additive",
+                    "weight": 2.6175487420834265
+                },
+                {
+                    "label": "dean",
+                    "weight": 2.6148402355485767
+                },
+                {
+                    "label": "pete",
+                    "weight": 2.603709056858125
+                },
+                {
+                    "label": "otherwise",
+                    "weight": 2.5781174842522523
+                },
+                {
+                    "label": "cso",
+                    "weight": 2.534330584985206
+                },
+                {
+                    "label": "perpetual",
+                    "weight": 2.513592178168929
+                },
+                {
+                    "label": "bite",
+                    "weight": 2.470075117682472
+                },
+                {
+                    "label": "narrow",
+                    "weight": 2.4634908664261905
+                },
+                {
+                    "label": "performance",
+                    "weight": 2.4589755689063213
+                },
+                {
+                    "label": "sabo",
+                    "weight": 2.417977537078415
+                },
+                {
+                    "label": "slump",
+                    "weight": 2.4112364144522727
+                },
+                {
+                    "label": "exempt",
+                    "weight": 2.393511252298437
+                },
+                {
+                    "label": "biz",
+                    "weight": 2.331611436532301
+                },
+                {
+                    "label": "newbie",
+                    "weight": 2.324511637299024
+                },
+                {
+                    "label": "michael",
+                    "weight": 2.2104494042291787
+                },
+                {
+                    "label": "ist",
+                    "weight": 2.19379349433391
+                }
+            ]
+        },
+        {
+            "conceptId": 14,
+            "clusterId": 5,
+            "hexCoordinates": {
+                "x": 35.98362731933594,
+                "y": 1.7704033851623535
+            },
+            "labels": [
+                {
+                    "label": "patient",
+                    "weight": 24.64703272818735
+                },
+                {
+                    "label": "disease",
+                    "weight": 23.26273728827077
+                },
+                {
+                    "label": "doctor",
+                    "weight": 21.78985798746395
+                },
+                {
+                    "label": "food",
+                    "weight": 20.139910558413607
+                },
+                {
+                    "label": "skepticism",
+                    "weight": 19.127964378277458
+                },
+                {
+                    "label": "treatment",
+                    "weight": 15.206114742372243
+                },
+                {
+                    "label": "pain",
+                    "weight": 14.946787406465784
+                },
+                {
+                    "label": "medical",
+                    "weight": 13.441331668691571
+                },
+                {
+                    "label": "infection",
+                    "weight": 13.16933284085117
+                },
+                {
+                    "label": "study",
+                    "weight": 12.80730903875908
+                },
+                {
+                    "label": "diet",
+                    "weight": 12.456512892596944
+                },
+                {
+                    "label": "therapy",
+                    "weight": 10.314168110730844
+                },
+                {
+                    "label": "physician",
+                    "weight": 10.281161582079369
+                },
+                {
+                    "label": "cell",
+                    "weight": 9.85594404107535
+                },
+                {
+                    "label": "drug",
+                    "weight": 9.624612819579395
+                },
+                {
+                    "label": "objective",
+                    "weight": 9.609968033917156
+                },
+                {
+                    "label": "eat",
+                    "weight": 9.565566479348009
+                },
+                {
+                    "label": "chronic",
+                    "weight": 9.535245764494311
+                },
+                {
+                    "label": "diagnose",
+                    "weight": 8.764568976184322
+                },
+                {
+                    "label": "blood",
+                    "weight": 8.722325261181773
+                },
+                {
+                    "label": "symptom",
+                    "weight": 8.416649150191125
+                },
+                {
+                    "label": "brain",
+                    "weight": 8.334955220573296
+                },
+                {
+                    "label": "survey",
+                    "weight": 8.2254137723923
+                },
+                {
+                    "label": "yes",
+                    "weight": 8.120670130667136
+                },
+                {
+                    "label": "allergic",
+                    "weight": 8.048413514146466
+                },
+                {
+                    "label": "reaction",
+                    "weight": 7.858387288573686
+                },
+                {
+                    "label": "sick",
+                    "weight": 7.784125975306902
+                },
+                {
+                    "label": "cure",
+                    "weight": 7.698296969610999
+                },
+                {
+                    "label": "kidney",
+                    "weight": 7.543835024633446
+                },
+                {
+                    "label": "treat",
+                    "weight": 7.086515999065608
+                },
+                {
+                    "label": "medication",
+                    "weight": 6.964401233176171
+                },
+                {
+                    "label": "yeast",
+                    "weight": 6.961245053502948
+                },
+                {
+                    "label": "stone",
+                    "weight": 6.925726049598582
+                },
+                {
+                    "label": "health",
+                    "weight": 6.894011636431403
+                },
+                {
+                    "label": "liver",
+                    "weight": 6.493386751884838
+                },
+                {
+                    "label": "vitamin",
+                    "weight": 6.263504591052436
+                },
+                {
+                    "label": "chinese",
+                    "weight": 6.2360352595115724
+                },
+                {
+                    "label": "gay",
+                    "weight": 6.019055034534764
+                },
+                {
+                    "label": "seizure",
+                    "weight": 5.964118739593191
+                },
+                {
+                    "label": "chemical",
+                    "weight": 5.906142680921799
+                },
+                {
+                    "label": "hospital",
+                    "weight": 5.761807786996715
+                },
+                {
+                    "label": "lyme",
+                    "weight": 5.751310655227797
+                },
+                {
+                    "label": "subjective",
+                    "weight": 5.731739348849494
+                },
+                {
+                    "label": "med",
+                    "weight": 5.469055121101399
+                },
+                {
+                    "label": "normal",
+                    "weight": 5.458181923625087
+                },
+                {
+                    "label": "baby",
+                    "weight": 5.325243604115726
+                },
+                {
+                    "label": "usually",
+                    "weight": 5.220839299317135
+                },
+                {
+                    "label": "common",
+                    "weight": 5.099203440696204
+                },
+                {
+                    "label": "placebo",
+                    "weight": 5.093629678181928
+                },
+                {
+                    "label": "pill",
+                    "weight": 4.958733115508828
+                }
+            ]
+        },
+        {
+            "conceptId": 15,
+            "clusterId": 5,
+            "hexCoordinates": {
+                "x": 22.434165954589844,
+                "y": -31.1959171295166
+            },
+            "labels": [
+                {
+                    "label": "bike",
+                    "weight": 54.29288219429076
+                },
+                {
+                    "label": "car",
+                    "weight": 47.46012692842445
+                },
+                {
+                    "label": "engine",
+                    "weight": 30.436434455049376
+                },
+                {
+                    "label": "battery",
+                    "weight": 26.663263888808014
+                },
+                {
+                    "label": "motorcycle",
+                    "weight": 21.470616685822947
+                },
+                {
+                    "label": "brake",
+                    "weight": 20.15706650398334
+                },
+                {
+                    "label": "amp",
+                    "weight": 19.823308712780825
+                },
+                {
+                    "label": "wheel",
+                    "weight": 19.013585037213904
+                },
+                {
+                    "label": "rear",
+                    "weight": 18.21237692291068
+                },
+                {
+                    "label": "honda",
+                    "weight": 18.073303965920683
+                },
+                {
+                    "label": "power",
+                    "weight": 17.695939085971943
+                },
+                {
+                    "label": "mile",
+                    "weight": 17.534451284888675
+                },
+                {
+                    "label": "front",
+                    "weight": 16.49932638122201
+                },
+                {
+                    "label": "ford",
+                    "weight": 16.00845799437369
+                },
+                {
+                    "label": "lock",
+                    "weight": 14.383574797426949
+                },
+                {
+                    "label": "oil",
+                    "weight": 13.95845607230583
+                },
+                {
+                    "label": "circuit",
+                    "weight": 13.553306541259396
+                },
+                {
+                    "label": "radio",
+                    "weight": 13.55218430175798
+                },
+                {
+                    "label": "speed",
+                    "weight": 12.623057419051753
+                },
+                {
+                    "label": "khz",
+                    "weight": 12.379350426759052
+                },
+                {
+                    "label": "ride",
+                    "weight": 12.058531320645637
+                },
+                {
+                    "label": "voltage",
+                    "weight": 11.749627844183152
+                },
+                {
+                    "label": "noise",
+                    "weight": 11.210499363391252
+                },
+                {
+                    "label": "frequency",
+                    "weight": 11.084055035653524
+                },
+                {
+                    "label": "turn",
+                    "weight": 10.95705435972629
+                },
+                {
+                    "label": "clutch",
+                    "weight": 10.842760300250928
+                },
+                {
+                    "label": "shaft",
+                    "weight": 10.8300765799072
+                },
+                {
+                    "label": "rider",
+                    "weight": 10.794082691372244
+                },
+                {
+                    "label": "cylinder",
+                    "weight": 10.750372687675574
+                },
+                {
+                    "label": "steer",
+                    "weight": 10.59137645843188
+                },
+                {
+                    "label": "shift",
+                    "weight": 10.434706583194416
+                },
+                {
+                    "label": "valve",
+                    "weight": 10.307041960790682
+                },
+                {
+                    "label": "filter",
+                    "weight": 10.149193128329484
+                },
+                {
+                    "label": "mustang",
+                    "weight": 9.987958702063509
+                },
+                {
+                    "label": "mph",
+                    "weight": 9.985180435731133
+                },
+                {
+                    "label": "tire",
+                    "weight": 9.940924337164958
+                },
+                {
+                    "label": "signal",
+                    "weight": 9.849774892245792
+                },
+                {
+                    "label": "audio",
+                    "weight": 9.71173884840005
+                },
+                {
+                    "label": "bmw",
+                    "weight": 9.693519645486036
+                },
+                {
+                    "label": "stereo",
+                    "weight": 9.207781288737534
+                },
+                {
+                    "label": "turbo",
+                    "weight": 9.197278945519816
+                },
+                {
+                    "label": "low",
+                    "weight": 9.115187708658883
+                },
+                {
+                    "label": "amplifier",
+                    "weight": 9.073629802942232
+                },
+                {
+                    "label": "band",
+                    "weight": 9.01879426287571
+                },
+                {
+                    "label": "design",
+                    "weight": 8.964582197404894
+                },
+                {
+                    "label": "switch",
+                    "weight": 8.88614133301815
+                },
+                {
+                    "label": "output",
+                    "weight": 8.79836177247249
+                },
+                {
+                    "label": "volt",
+                    "weight": 8.557890808765052
+                },
+                {
+                    "label": "seat",
+                    "weight": 8.417627056552622
+                },
+                {
+                    "label": "current",
+                    "weight": 8.310447837549363
+                }
+            ]
+        },
+        {
+            "conceptId": 16,
+            "clusterId": 2,
+            "hexCoordinates": {
+                "x": -9.069361686706543,
+                "y": -94.57185363769531
+            },
+            "labels": [
+                {
+                    "label": "god",
+                    "weight": 162.20038890954788
+                },
+                {
+                    "label": "christian",
+                    "weight": 90.51873094610804
+                },
+                {
+                    "label": "jesus",
+                    "weight": 70.74352291095086
+                },
+                {
+                    "label": "religion",
+                    "weight": 57.22802194267657
+                },
+                {
+                    "label": "church",
+                    "weight": 56.20239301374045
+                },
+                {
+                    "label": "bible",
+                    "weight": 55.58351482655508
+                },
+                {
+                    "label": "belief",
+                    "weight": 43.38738108518434
+                },
+                {
+                    "label": "christ",
+                    "weight": 42.15648581373643
+                },
+                {
+                    "label": "faith",
+                    "weight": 40.03983397114488
+                },
+                {
+                    "label": "atheist",
+                    "weight": 39.80343236292634
+                },
+                {
+                    "label": "sin",
+                    "weight": 39.5124354572269
+                },
+                {
+                    "label": "homosexual",
+                    "weight": 36.10308907429384
+                },
+                {
+                    "label": "book",
+                    "weight": 34.37262391147274
+                },
+                {
+                    "label": "human",
+                    "weight": 32.781909054833456
+                },
+                {
+                    "label": "answer",
+                    "weight": 32.00890346253354
+                },
+                {
+                    "label": "christianity",
+                    "weight": 31.737134810656663
+                },
+                {
+                    "label": "claim",
+                    "weight": 31.69246488027805
+                },
+                {
+                    "label": "truth",
+                    "weight": 31.3756975299176
+                },
+                {
+                    "label": "moral",
+                    "weight": 30.11259822261063
+                },
+                {
+                    "label": "law",
+                    "weight": 28.7998021227134
+                },
+                {
+                    "label": "understand",
+                    "weight": 28.57679608626254
+                },
+                {
+                    "label": "religious",
+                    "weight": 28.56999477487968
+                },
+                {
+                    "label": "wrong",
+                    "weight": 28.194540650993755
+                },
+                {
+                    "label": "man",
+                    "weight": 26.010589294115437
+                },
+                {
+                    "label": "agree",
+                    "weight": 25.4517534776933
+                },
+                {
+                    "label": "example",
+                    "weight": 24.77265804747581
+                },
+                {
+                    "label": "exist",
+                    "weight": 24.215601300016942
+                },
+                {
+                    "label": "world",
+                    "weight": 24.20243430636801
+                },
+                {
+                    "label": "lord",
+                    "weight": 23.99374966025856
+                },
+                {
+                    "label": "catholic",
+                    "weight": 23.68680210147343
+                },
+                {
+                    "label": "atheism",
+                    "weight": 23.54535059371427
+                },
+                {
+                    "label": "heaven",
+                    "weight": 23.445315558611192
+                },
+                {
+                    "label": "different",
+                    "weight": 23.22019270309333
+                },
+                {
+                    "label": "child",
+                    "weight": 22.52512666856437
+                },
+                {
+                    "label": "quote",
+                    "weight": 21.68953912498413
+                },
+                {
+                    "label": "scripture",
+                    "weight": 21.65133611549932
+                },
+                {
+                    "label": "view",
+                    "weight": 21.550322044383574
+                },
+                {
+                    "label": "accept",
+                    "weight": 21.427392763227903
+                },
+                {
+                    "label": "quite",
+                    "weight": 20.999896322152424
+                },
+                {
+                    "label": "kent",
+                    "weight": 20.709372486052786
+                },
+                {
+                    "label": "meaning",
+                    "weight": 20.477478894467005
+                },
+                {
+                    "label": "son",
+                    "weight": 20.43890892528445
+                },
+                {
+                    "label": "nature",
+                    "weight": 20.326779139363783
+                },
+                {
+                    "label": "sex",
+                    "weight": 19.87108466036205
+                },
+                {
+                    "label": "hell",
+                    "weight": 19.768349869995987
+                },
+                {
+                    "label": "jew",
+                    "weight": 19.752040463870905
+                },
+                {
+                    "label": "islam",
+                    "weight": 19.751280041997934
+                },
+                {
+                    "label": "gay",
+                    "weight": 19.69241797060015
+                },
+                {
+                    "label": "paul",
+                    "weight": 19.684904631821304
+                },
+                {
+                    "label": "matter",
+                    "weight": 19.32778744039404
+                }
+            ]
+        },
+        {
+            "conceptId": 17,
+            "clusterId": 3,
+            "hexCoordinates": {
+                "x": -2.075582504272461,
+                "y": -49.06755447387695
+            },
+            "labels": [
+                {
+                    "label": "israel",
+                    "weight": 55.057693650492006
+                },
+                {
+                    "label": "arab",
+                    "weight": 43.48630356454328
+                },
+                {
+                    "label": "israeli",
+                    "weight": 39.99939455101957
+                },
+                {
+                    "label": "jew",
+                    "weight": 30.94661332072949
+                },
+                {
+                    "label": "palestinian",
+                    "weight": 21.58363716947033
+                },
+                {
+                    "label": "jewish",
+                    "weight": 19.591324828213157
+                },
+                {
+                    "label": "adam",
+                    "weight": 11.81781352045664
+                },
+                {
+                    "label": "marriage",
+                    "weight": 10.377097396099249
+                },
+                {
+                    "label": "cub",
+                    "weight": 9.788993273845216
+                },
+                {
+                    "label": "west",
+                    "weight": 9.751191040874645
+                },
+                {
+                    "label": "peace",
+                    "weight": 9.26064309782131
+                },
+                {
+                    "label": "lebanon",
+                    "weight": 8.889424387757249
+                },
+                {
+                    "label": "palestine",
+                    "weight": 8.336821834880881
+                },
+                {
+                    "label": "iran",
+                    "weight": 7.996520297883654
+                },
+                {
+                    "label": "kill",
+                    "weight": 7.981690751881723
+                },
+                {
+                    "label": "lebanese",
+                    "weight": 7.810198961726265
+                },
+                {
+                    "label": "soldier",
+                    "weight": 7.801259903866434
+                },
+                {
+                    "label": "gaza",
+                    "weight": 7.604566987504284
+                },
+                {
+                    "label": "hacker",
+                    "weight": 7.170539553405943
+                },
+                {
+                    "label": "cipher",
+                    "weight": 7.162108190921945
+                },
+                {
+                    "label": "oscillator",
+                    "weight": 7.057617624982346
+                },
+                {
+                    "label": "zionist",
+                    "weight": 6.917587394474046
+                },
+                {
+                    "label": "state",
+                    "weight": 6.824642720251625
+                },
+                {
+                    "label": "territory",
+                    "weight": 6.6722393919713605
+                },
+                {
+                    "label": "harvard",
+                    "weight": 6.6496970416120895
+                },
+                {
+                    "label": "anti",
+                    "weight": 6.604645707685885
+                },
+                {
+                    "label": "jerusalem",
+                    "weight": 6.568466254226792
+                },
+                {
+                    "label": "ground",
+                    "weight": 5.927983883063781
+                },
+                {
+                    "label": "land",
+                    "weight": 5.759182995564532
+                },
+                {
+                    "label": "shark",
+                    "weight": 5.726959256146813
+                },
+                {
+                    "label": "policy",
+                    "weight": 5.690328241903519
+                },
+                {
+                    "label": "river",
+                    "weight": 5.43400453154593
+                },
+                {
+                    "label": "motto",
+                    "weight": 5.398451125974882
+                },
+                {
+                    "label": "country",
+                    "weight": 5.370893484740386
+                },
+                {
+                    "label": "attack",
+                    "weight": 5.337406547253262
+                },
+                {
+                    "label": "syria",
+                    "weight": 5.320087944707253
+                },
+                {
+                    "label": "racist",
+                    "weight": 5.251994868112172
+                },
+                {
+                    "label": "integra",
+                    "weight": 5.203921879160557
+                },
+                {
+                    "label": "american",
+                    "weight": 5.069251606098706
+                },
+                {
+                    "label": "sox",
+                    "weight": 5.030027106150979
+                },
+                {
+                    "label": "border",
+                    "weight": 5.009571187935753
+                },
+                {
+                    "label": "shostack",
+                    "weight": 4.886206674064312
+                },
+                {
+                    "label": "terrorist",
+                    "weight": 4.807494145698301
+                },
+                {
+                    "label": "stupid",
+                    "weight": 4.729317057236057
+                },
+                {
+                    "label": "aaa",
+                    "weight": 4.5928305585208165
+                },
+                {
+                    "label": "war",
+                    "weight": 4.519013331251848
+                },
+                {
+                    "label": "transformer",
+                    "weight": 4.489177435314317
+                },
+                {
+                    "label": "syrian",
+                    "weight": 4.421277969852379
+                },
+                {
+                    "label": "creed",
+                    "weight": 4.383627564342434
+                },
+                {
+                    "label": "neutral",
+                    "weight": 4.369356937809044
+                }
+            ]
+        },
+        {
+            "conceptId": 18,
+            "clusterId": 1,
+            "hexCoordinates": {
+                "x": -15.434917449951172,
+                "y": 66.37307739257812
+            },
+            "labels": [
+                {
+                    "label": "dma",
+                    "weight": 12.513686079901134
+                },
+                {
+                    "label": "sys",
+                    "weight": 12.20146599096508
+                },
+                {
+                    "label": "memory",
+                    "weight": 10.511927291489188
+                },
+                {
+                    "label": "adaptec",
+                    "weight": 9.382841132123596
+                },
+                {
+                    "label": "windows",
+                    "weight": 9.337564708584113
+                },
+                {
+                    "label": "config",
+                    "weight": 8.586429136621417
+                },
+                {
+                    "label": "define",
+                    "weight": 7.443392635396638
+                },
+                {
+                    "label": "david",
+                    "weight": 6.946997817993912
+                },
+                {
+                    "label": "error",
+                    "weight": 6.022868129062395
+                },
+                {
+                    "label": "mode",
+                    "weight": 5.9500484065532975
+                },
+                {
+                    "label": "composite",
+                    "weight": 5.87418603583629
+                },
+                {
+                    "label": "borland",
+                    "weight": 5.697271719996895
+                },
+                {
+                    "label": "linux",
+                    "weight": 5.569968991953261
+                },
+                {
+                    "label": "diamond",
+                    "weight": 5.471453700107257
+                },
+                {
+                    "label": "hello",
+                    "weight": 5.464139087885453
+                },
+                {
+                    "label": "projector",
+                    "weight": 5.40522794530395
+                },
+                {
+                    "label": "beep",
+                    "weight": 5.33710941610341
+                },
+                {
+                    "label": "viper",
+                    "weight": 5.2814376203227225
+                },
+                {
+                    "label": "autoexec",
+                    "weight": 5.236711165491328
+                },
+                {
+                    "label": "echo",
+                    "weight": 5.177393719985247
+                },
+                {
+                    "label": "vax",
+                    "weight": 5.151819848717358
+                },
+                {
+                    "label": "driver",
+                    "weight": 5.135436876730431
+                },
+                {
+                    "label": "ibm",
+                    "weight": 5.1243639737586655
+                },
+                {
+                    "label": "smartdrv",
+                    "weight": 5.032888683146339
+                },
+                {
+                    "label": "fdisk",
+                    "weight": 5.007391292689305
+                },
+                {
+                    "label": "string",
+                    "weight": 4.949853989182578
+                },
+                {
+                    "label": "interrupt",
+                    "weight": 4.797622147931471
+                },
+                {
+                    "label": "gcc",
+                    "weight": 4.7791077915614615
+                },
+                {
+                    "label": "reboot",
+                    "weight": 4.689746548914811
+                },
+                {
+                    "label": "bsd",
+                    "weight": 4.628617631272117
+                },
+                {
+                    "label": "bat",
+                    "weight": 4.5419321965733
+                },
+                {
+                    "label": "ctrl",
+                    "weight": 4.493496027768203
+                },
+                {
+                    "label": "apps",
+                    "weight": 4.4559124999379325
+                },
+                {
+                    "label": "phigs",
+                    "weight": 4.4447051251270695
+                },
+                {
+                    "label": "msu",
+                    "weight": 4.426520717318997
+                },
+                {
+                    "label": "tia",
+                    "weight": 4.401815312649214
+                },
+                {
+                    "label": "stealth",
+                    "weight": 4.363280258664702
+                },
+                {
+                    "label": "stacker",
+                    "weight": 4.220436811146359
+                },
+                {
+                    "label": "stack",
+                    "weight": 4.170329748993482
+                },
+                {
+                    "label": "support",
+                    "weight": 4.146605043975125
+                },
+                {
+                    "label": "openlook",
+                    "weight": 3.9960925398674103
+                },
+                {
+                    "label": "mapped",
+                    "weight": 3.78886947204055
+                },
+                {
+                    "label": "boot",
+                    "weight": 3.752590298184455
+                },
+                {
+                    "label": "nyx",
+                    "weight": 3.716230766162313
+                },
+                {
+                    "label": "rpi",
+                    "weight": 3.6589477162069257
+                },
+                {
+                    "label": "api",
+                    "weight": 3.62619658642145
+                },
+                {
+                    "label": "iifx",
+                    "weight": 3.61544146028683
+                },
+                {
+                    "label": "disabled",
+                    "weight": 3.606330732742805
+                },
+                {
+                    "label": "mcwilliams",
+                    "weight": 3.595745980610725
+                },
+                {
+                    "label": "tom",
+                    "weight": 3.591646459189296
+                }
+            ]
+        },
+        {
+            "conceptId": 19,
+            "clusterId": 5,
+            "hexCoordinates": {
+                "x": 31.197599411010742,
+                "y": 24.355897903442383
+            },
+            "labels": [
+                {
+                    "label": "cancer",
+                    "weight": 9.971766543135578
+                },
+                {
+                    "label": "baud",
+                    "weight": 9.345724320140834
+                },
+                {
+                    "label": "candida",
+                    "weight": 8.612870995296662
+                },
+                {
+                    "label": "antibiotic",
+                    "weight": 7.580217969950934
+                },
+                {
+                    "label": "compaq",
+                    "weight": 5.544223724109369
+                },
+                {
+                    "label": "comic",
+                    "weight": 4.963626895150563
+                },
+                {
+                    "label": "stats",
+                    "weight": 4.727592042217095
+                },
+                {
+                    "label": "each",
+                    "weight": 4.696760036507343
+                },
+                {
+                    "label": "floptical",
+                    "weight": 4.323475035646751
+                },
+                {
+                    "label": "viewsonic",
+                    "weight": 4.14255224916135
+                },
+                {
+                    "label": "oral",
+                    "weight": 4.05485442654195
+                },
+                {
+                    "label": "curious",
+                    "weight": 3.871581665917048
+                },
+                {
+                    "label": "acid",
+                    "weight": 3.8501620747584977
+                },
+                {
+                    "label": "lucifer",
+                    "weight": 3.812606028449197
+                },
+                {
+                    "label": "quantity",
+                    "weight": 3.794230262696405
+                },
+                {
+                    "label": "erickson",
+                    "weight": 3.719181407608727
+                },
+                {
+                    "label": "bacteria",
+                    "weight": 3.69851070542027
+                },
+                {
+                    "label": "throughput",
+                    "weight": 3.645849813820802
+                },
+                {
+                    "label": "hypercard",
+                    "weight": 3.4569219137645004
+                },
+                {
+                    "label": "commodore",
+                    "weight": 3.284550152219857
+                },
+                {
+                    "label": "yogurt",
+                    "weight": 3.2362197374493675
+                },
+                {
+                    "label": "dollar",
+                    "weight": 3.2076102591754903
+                },
+                {
+                    "label": "lisa",
+                    "weight": 3.187498612398826
+                },
+                {
+                    "label": "louisville",
+                    "weight": 3.183811078774996
+                },
+                {
+                    "label": "distributor",
+                    "weight": 3.1514481334771123
+                },
+                {
+                    "label": "hiv",
+                    "weight": 3.150931995338885
+                },
+                {
+                    "label": "bel",
+                    "weight": 3.1256961216008428
+                },
+                {
+                    "label": "bell",
+                    "weight": 3.074295438717187
+                },
+                {
+                    "label": "dtr",
+                    "weight": 3.059457785453099
+                },
+                {
+                    "label": "aspect",
+                    "weight": 3.029034682233064
+                },
+                {
+                    "label": "matt",
+                    "weight": 2.969271219896346
+                },
+                {
+                    "label": "seagate",
+                    "weight": 2.8965664004149123
+                },
+                {
+                    "label": "glass",
+                    "weight": 2.84178094225413
+                },
+                {
+                    "label": "stack",
+                    "weight": 2.839942292453467
+                },
+                {
+                    "label": "sell",
+                    "weight": 2.7569377809490496
+                },
+                {
+                    "label": "bill",
+                    "weight": 2.7275787572659045
+                },
+                {
+                    "label": "copy",
+                    "weight": 2.7244080277435274
+                },
+                {
+                    "label": "sent",
+                    "weight": 2.709187489632144
+                },
+                {
+                    "label": "thank",
+                    "weight": 2.701614895551049
+                },
+                {
+                    "label": "interleave",
+                    "weight": 2.6423605654259235
+                },
+                {
+                    "label": "research",
+                    "weight": 2.629534602539552
+                },
+                {
+                    "label": "turtle",
+                    "weight": 2.5972644426150744
+                },
+                {
+                    "label": "annual",
+                    "weight": 2.5919083344911984
+                },
+                {
+                    "label": "forum",
+                    "weight": 2.568669371273306
+                },
+                {
+                    "label": "tract",
+                    "weight": 2.4596747760788404
+                },
+                {
+                    "label": "quayle",
+                    "weight": 2.453352084538852
+                },
+                {
+                    "label": "spd",
+                    "weight": 2.4247369964872365
+                },
+                {
+                    "label": "powerbooks",
+                    "weight": 2.419066531109819
+                },
+                {
+                    "label": "oregon",
+                    "weight": 2.415196675004545
+                },
+                {
+                    "label": "cryptosystem",
+                    "weight": 2.4138871029022537
+                }
+            ]
+        },
+        {
+            "conceptId": 20,
+            "clusterId": 4,
+            "hexCoordinates": {
+                "x": -63.46084213256836,
+                "y": -22.000337600708008
+            },
+            "labels": [
+                {
+                    "label": "pitch",
+                    "weight": 26.92374231295623
+                },
+                {
+                    "label": "pitcher",
+                    "weight": 23.659588692024204
+                },
+                {
+                    "label": "hit",
+                    "weight": 17.25595675185708
+                },
+                {
+                    "label": "hitter",
+                    "weight": 14.595358333359794
+                },
+                {
+                    "label": "inning",
+                    "weight": 11.36210002208723
+                },
+                {
+                    "label": "stats",
+                    "weight": 9.675902337994254
+                },
+                {
+                    "label": "player",
+                    "weight": 9.590498706630417
+                },
+                {
+                    "label": "ball",
+                    "weight": 9.361662469940391
+                },
+                {
+                    "label": "era",
+                    "weight": 8.767880363094205
+                },
+                {
+                    "label": "average",
+                    "weight": 8.74428341957079
+                },
+                {
+                    "label": "runner",
+                    "weight": 8.386888607049508
+                },
+                {
+                    "label": "batting",
+                    "weight": 8.339782883075083
+                },
+                {
+                    "label": "season",
+                    "weight": 8.320404483610792
+                },
+                {
+                    "label": "batter",
+                    "weight": 7.697445453699387
+                },
+                {
+                    "label": "league",
+                    "weight": 7.445205850399019
+                },
+                {
+                    "label": "rbi",
+                    "weight": 7.223079306326309
+                },
+                {
+                    "label": "bond",
+                    "weight": 7.103974358664933
+                },
+                {
+                    "label": "baseball",
+                    "weight": 7.05454668583134
+                },
+                {
+                    "label": "heat",
+                    "weight": 6.602997834285556
+                },
+                {
+                    "label": "adobe",
+                    "weight": 6.263681453338703
+                },
+                {
+                    "label": "williams",
+                    "weight": 6.160956424070968
+                },
+                {
+                    "label": "play",
+                    "weight": 6.15995696041459
+                },
+                {
+                    "label": "cub",
+                    "weight": 6.053061298025612
+                },
+                {
+                    "label": "base",
+                    "weight": 5.728016553241544
+                },
+                {
+                    "label": "finland",
+                    "weight": 5.6650374263415735
+                },
+                {
+                    "label": "fan",
+                    "weight": 5.610062835073215
+                },
+                {
+                    "label": "joke",
+                    "weight": 5.602308441259374
+                },
+                {
+                    "label": "sweden",
+                    "weight": 5.582518992672592
+                },
+                {
+                    "label": "homer",
+                    "weight": 5.553242195727338
+                },
+                {
+                    "label": "lose",
+                    "weight": 5.438818596019521
+                },
+                {
+                    "label": "sink",
+                    "weight": 5.431138027962829
+                },
+                {
+                    "label": "stat",
+                    "weight": 5.350341430198345
+                },
+                {
+                    "label": "career",
+                    "weight": 5.3452941332244
+                },
+                {
+                    "label": "baseman",
+                    "weight": 5.343532563491658
+                },
+                {
+                    "label": "bat",
+                    "weight": 4.863222141460777
+                },
+                {
+                    "label": "phillies",
+                    "weight": 4.778296546308465
+                },
+                {
+                    "label": "brave",
+                    "weight": 4.671637921513821
+                },
+                {
+                    "label": "steal",
+                    "weight": 4.56621999044207
+                },
+                {
+                    "label": "cardinal",
+                    "weight": 4.561245132850673
+                },
+                {
+                    "label": "italy",
+                    "weight": 4.538848354881374
+                },
+                {
+                    "label": "defensive",
+                    "weight": 4.462634444615148
+                },
+                {
+                    "label": "sandberg",
+                    "weight": 4.380591389453148
+                },
+                {
+                    "label": "mattingly",
+                    "weight": 4.290188573305235
+                },
+                {
+                    "label": "fielding",
+                    "weight": 4.211196165997808
+                },
+                {
+                    "label": "double",
+                    "weight": 4.191787204836638
+                },
+                {
+                    "label": "yassin",
+                    "weight": 4.1213419091201375
+                },
+                {
+                    "label": "norway",
+                    "weight": 4.013514272193929
+                },
+                {
+                    "label": "fielder",
+                    "weight": 3.96554924671043
+                },
+                {
+                    "label": "dale",
+                    "weight": 3.900091290925899
+                },
+                {
+                    "label": "alomar",
+                    "weight": 3.888387453107504
+                }
+            ]
+        }
+    ],
+    "linkageTable": [
+        {
+            "node1": 3.0,
+            "node2": 10.0,
+            "distance": 1.0687674872214388
+        },
+        {
+            "node1": 1.0,
+            "node2": 15.0,
+            "distance": 1.104374148680575
+        },
+        {
+            "node1": 4.0,
+            "node2": 17.0,
+            "distance": 1.1159580616380913
+        },
+        {
+            "node1": 5.0,
+            "node2": 6.0,
+            "distance": 1.1366603409433318
+        },
+        {
+            "node1": 13.0,
+            "node2": 18.0,
+            "distance": 1.1823855761623
+        },
+        {
+            "node1": 7.0,
+            "node2": 8.0,
+            "distance": 1.1952846334930858
+        },
+        {
+            "node1": 11.0,
+            "node2": 12.0,
+            "distance": 1.198486146199716
+        },
+        {
+            "node1": 16.0,
+            "node2": 20.0,
+            "distance": 1.204755585288704
+        },
+        {
+            "node1": 0.0,
+            "node2": 14.0,
+            "distance": 1.20965662625218
+        },
+        {
+            "node1": 2.0,
+            "node2": 26.0,
+            "distance": 1.2223374140567727
+        },
+        {
+            "node1": 19.0,
+            "node2": 23.0,
+            "distance": 1.2265990713547865
+        },
+        {
+            "node1": 22.0,
+            "node2": 25.0,
+            "distance": 1.2526869812141201
+        },
+        {
+            "node1": 24.0,
+            "node2": 29.0,
+            "distance": 1.257103865954836
+        },
+        {
+            "node1": 9.0,
+            "node2": 27.0,
+            "distance": 1.2917173500785106
+        },
+        {
+            "node1": 28.0,
+            "node2": 32.0,
+            "distance": 1.3237293565063268
+        },
+        {
+            "node1": 21.0,
+            "node2": 33.0,
+            "distance": 1.3365407882628197
+        },
+        {
+            "node1": 30.0,
+            "node2": 34.0,
+            "distance": 1.378977140030762
+        },
+        {
+            "node1": 35.0,
+            "node2": 36.0,
+            "distance": 1.4229491079797514
+        },
+        {
+            "node1": 31.0,
+            "node2": 37.0,
+            "distance": 1.5297706534129618
+        }
+    ]
+}
