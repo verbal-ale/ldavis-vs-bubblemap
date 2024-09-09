@@ -3,8 +3,8 @@ let data;
 
 
 async function main(){
-    let ldavisData = await d3.json('https://raw.githubusercontent.com/verbal-ale/ldavis-vs-bubblemap/master/data/ldavis_data.json'); 
-    console.log("ldavis_data.json: ", ldavisData);
+    // let ldavisData = await d3.json('https://raw.githubusercontent.com/verbal-ale/ldavis-vs-bubblemap/master/data/ldavis_data.json'); 
+    // console.log("ldavis_data.json: ", ldavisData);
 
 /* --- PAGE TITLE ---*/
 const titleContainer = createElement('div', 'element_container');
