@@ -103,13 +103,13 @@ main();
 
 // Add an event listeners to navigation buttons
 document.getElementById('ldavis-button').addEventListener('click', function() {
-    window.location.href = 'html/ldavis_dashboard.html';
+    window.location.href = '/code/html/ldavis_dashboard.html';
 });
 document.getElementById('control-button').addEventListener('click', function() {
-    window.location.href = 'html/control_dashboard.html';
+    window.location.href = '/code/html/control_dashboard.html';
 });
 document.getElementById('buuble-map-button').addEventListener('click', function() {
-    window.location.href = 'html/bubble_map_dashboard.html';
+    window.location.href = '/code/html/bubble_map_dashboard.html';
 });
 
 
