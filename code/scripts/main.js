@@ -3,7 +3,7 @@ let data;
 
 
 async function main(){
-    let ldavisData = await d3.json('../../data/ldavis_data.json'); 
+    let ldavisData = await d3.json('https://verbal-ale.github.io/data/ldavis_data.json'); 
     console.log("ldavis_data.json: ", ldavisData);
 
 /* --- PAGE TITLE ---*/
