@@ -5,7 +5,25 @@
 
 ##### *Alex Varbanov - H00456607 - av2049@hw.ac.uk*
 
+_This research project explores the preferences of non-expert users of interactive
+topic modelling visualisations by developing a usability testing experiment and
+conducting a qualitative evaluation of the user experience. More specifically, we are
+interested in two topic modelling visualisation techniques – projection and cluster-
+based mapping and their efficacy in conveying the thematic structure of a large
+corpus of text documents._
+
 >**This repository serves as the codebase for the technical implementation of the comparative study part of my Masters Project and Dissertation and storage for relevant documentation.** 
+
+|||
+|--|--|
+| **Project's Aim:** | to evaluate the usability of two topic modelling visualisation strategies |
+| **Learning Outcomes:** | to advance understanding by carrying out an investigation which includes prototyping
+a system. The work consists of presenting a problem (a hypothesis), reviewing existing work, describing the research undertaken (including experimental design), presenting the results of the experiment, presenting the conclusions, relating these to past work and suggesting further work. |
+| **Team Size:** | 1 |
+| **Project Run:** | 6 months |
+| **Grade:** | TBD |
+|||
+
 
 In order to evaluate the usability of a **projection**-**based** topic modelling visualisation against a **cluster**-**based** one, I produced three interfaces for an experiment involving 22 participants.
 
