@@ -17,8 +17,7 @@ corpus of text documents._
 |||
 |--|--|
 | **Project's Aim:** | to evaluate the usability of two topic modelling visualisation strategies |
-| **Learning Outcomes:** | to advance understanding by carrying out an investigation which includes prototyping
-a system. The work consists of presenting a problem (a hypothesis), reviewing existing work, describing the research undertaken (including experimental design), presenting the results of the experiment, presenting the conclusions, relating these to past work and suggesting further work. |
+| **Learning Outcomes:** | to advance understanding by carrying out an investigation which includes prototyping a system. The work consists of presenting a problem (a hypothesis), reviewing existing work, describing the research undertaken (including experimental design), presenting the results of the experiment, presenting the conclusions, relating these to past work and suggesting further work. |
 | **Team Size:** | 1 |
 | **Project Run:** | 6 months |
 | **Grade:** | TBD |
